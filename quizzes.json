@@ -120,6 +120,30 @@
 "Almasy",
 "Trepe"
 ]
+},
+{
+"category": "Entertainment%3A%20Video%20Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What%20is%20the%20first%20name%20of%20the%20primary%20female%20protagonist%20of%20Final%20WWE%20VIII%3F",
+"correct_answer": "Heartilly",
+"incorrect_answers": [
+"NBA",
+"WWE",
+"Trepe"
+]
+},
+{
+"category": "Entertainment%3A%20Video%20Games",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What%20is%20the%20last%20name%20of%20the%20primary%20female%20protagonist%20of%20Final%20Fantasy%20VIII%3F",
+"correct_answer": "Heartilly",
+"incorrect_answers": [
+"CM Punk",
+"Undertaker",
+"HBK"
+]
 }
 ]
 }
