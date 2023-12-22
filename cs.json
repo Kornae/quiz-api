@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does 'HTML' stand for in web development?",
+      "correct_answer": "Hypertext%20Markup%20Language",
+      "incorrect_answers": [
+        "Hyper%20Transfer%20Markup%20Language",
+        "Hypertext%20Modeling%20Language",
+        "Hypertext%20Management%20Language"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which programming language is often used for artificial intelligence?",
+      "correct_answer": "Python",
+      "incorrect_answers": [
+        "Java",
+        "C++",
+        "JavaScript"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does 'CPU' stand for in computing?",
+      "correct_answer": "Central%20Processing%20Unit",
+      "incorrect_answers": [
+        "Computer%20Processing%20Unit",
+        "Central%20Program%20Unit",
+        "Core%20Programming%20Unit"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is known as the father of modern computer science?",
+      "correct_answer": "Alan%20Turing",
+      "incorrect_answers": [
+        "Bill%20Gates",
+        "Steve%20Jobs",
+        "Tim%20Berners-Lee"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does 'GUI' stand for in computing?",
+      "correct_answer": "Graphical%20User%20Interface",
+      "incorrect_answers": [
+        "General%20User%20Input",
+        "Graphical%20Unit%20Interface",
+        "General%20Unit%20Input"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which company developed the Python programming language?",
+      "correct_answer": "Python%20Software%20Foundation",
+      "incorrect_answers": [
+        "Microsoft",
+        "Apple",
+        "Google"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the main function of a firewall in network security?",
+      "correct_answer": "To%20monitor%20and%20control%20incoming%20and%20outgoing%20network%20traffic",
+      "incorrect_answers": [
+        "To%20speed%20up%20internet%20connections",
+        "To%20block%20all%20incoming%20traffic",
+        "To%20scan%20for%20malware%20only"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the binary equivalent of the decimal number 10?",
+      "correct_answer": "1010",
+      "incorrect_answers": [
+        "1111",
+        "1100",
+        "1001"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which data structure operates on a Last In, First Out (LIFO) basis?",
+      "correct_answer": "Stack",
+      "incorrect_answers": [
+        "Queue",
+        "Linked%20List",
+        "Tree"
+      ]
+    },
+    {
+      "category": "Computer%20Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the full form of 'HTTP' in web browsing?",
+      "correct_answer": "Hypertext%20Transfer%20Protocol",
+      "incorrect_answers": [
+        "Hyper%20Text%20Manipulation%20Protocol",
+        "Hypertext%20Text%20Management%20Protocol",
+        "Hyper%20Transfer%20Text%20Protocol"
+      ]
+    }
+  ]
+}

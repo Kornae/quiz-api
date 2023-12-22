@@ -1,0 +1,85 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist is known as the 'King of Pop'?",
+      "correct_answer": "Michael%20Jackson",
+      "incorrect_answers": ["Elvis%20Presley", "Prince", "Stevie%20Wonder"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie%20Mercury",
+      "incorrect_answers": ["Roger%20Waters", "Bono", "Robert%20Plant"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What instrument did Jimi Hendrix famously play?",
+      "correct_answer": "Guitar",
+      "incorrect_answers": ["Piano", "Drums", "Saxophone"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which album is often considered the best-selling album of all time?",
+      "correct_answer": "Thriller%20by%20Michael%20Jackson",
+      "incorrect_answers": ["Dark%20Side%20of%20the%20Moon%20by%20Pink%20Floyd", "The%20Wall%20by%20Pink%20Floyd", "Back%20in%20Black%20by%20AC/DC"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What genre of music is characterized by its origins in African American communities in the Southern United States and its distinctive rhythm and blues influences?",
+      "correct_answer": "Blues",
+      "incorrect_answers": ["Jazz", "Reggae", "Hip-hop"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the Academy Award for Best Actor for the movie 'The Revenant'?",
+      "correct_answer": "Leonardo%20DiCaprio",
+      "incorrect_answers": ["Johnny%20Depp", "Brad%20Pitt", "Tom%20Hanks"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist's debut solo album was 'Dangerously in Love'?",
+      "correct_answer": "Beyonc%C3%A9",
+      "incorrect_answers": ["Rihanna", "Alicia%20Keys", "Lady%20Gaga"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is known as 'The Queen of Soul'?",
+      "correct_answer": "Aretha%20Franklin",
+      "incorrect_answers": ["Diana%20Ross", "Whitney%20Houston", "Tina%20Turner"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which band's logo features a tongue sticking out?",
+      "correct_answer": "The%20Rolling%20Stones",
+      "incorrect_answers": ["Led%20Zeppelin", "AC/DC", "Pink%20Floyd"]
+    },
+    {
+      "category": "Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Michael Jackson's famous pet chimpanzee?",
+      "correct_answer": "Bubbles",
+      "incorrect_answers": ["Boots", "Coco", "Charlie"]
+    }
+  ]
+}

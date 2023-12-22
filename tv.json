@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20TV%20show%20follows%20the%20story%20of%20Walter%20White%2C%20a%20chemistry%20teacher%20turned%20meth%20manufacturer%3F",
+      "correct_answer": "Breaking%20Bad",
+      "incorrect_answers": [
+        "Stranger%20Things",
+        "The%20Walking%20Dead",
+        "Game%20of%20Thrones"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In%20which%20TV%20show%20would%20you%20find%20the%20character%20named%20Dexter%2C%20a%20forensic%20blood%20spatter%20analyst%20and%20vigilante%20serial%20killer%3F",
+      "correct_answer": "Dexter",
+      "incorrect_answers": [
+        "Breaking%20Bad",
+        "Sherlock",
+        "Hannibal"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20TV%20show%20is%20set%20in%20the%20fictional%20Seven%20Kingdoms%20of%20Westeros%3F",
+      "correct_answer": "Game%20of%20Thrones",
+      "incorrect_answers": [
+        "The%20Crown",
+        "Stranger%20Things",
+        "The%20Mandalorian"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20TV%20show%20set%20in%20the%201980s%20where%20a%20group%20of%20kids%20encounter%20strange%20supernatural%20events%20in%20a%20small%20town%3F",
+      "correct_answer": "Stranger%20Things",
+      "incorrect_answers": [
+        "The%20X-Files",
+        "Dark",
+        "Twin%20Peaks"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20TV%20show%20features%20characters%20such%20as%20Phoebe%2C%20Joey%2C%20and%20Ross%3F",
+      "correct_answer": "Friends",
+      "incorrect_answers": [
+        "The%20Office%20(US)",
+        "How%20I%20Met%20Your%20Mother",
+        "Parks%20and%20Recreation"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20TV%20show%20centered%20around%20the%20lives%20of%20doctors%20and%20nurses%20at%20the%20Grey%20Sloan%20Memorial%20Hospital%3F",
+      "correct_answer": "Grey's%20Anatomy",
+      "incorrect_answers": [
+        "ER",
+        "House",
+        "Chicago%20Med"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20TV%20show%20is%20about%20a%20high%20school%20chemistry%20teacher%20who%20starts%20cooking%20meth%20to%20provide%20for%20his%20family%20after%20being%20diagnosed%20with%20cancer%3F",
+      "correct_answer": "Breaking%20Bad",
+      "incorrect_answers": [
+        "The%20Sopranos",
+        "Mad%20Men",
+        "Better%20Call%20Saul"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20TV%20show%20is%20known%20for%20the%20line%3A%20\"You%20know%20nothing%2C%20Jon%20Snow\"%3F",
+      "correct_answer": "Game%20of%20Thrones",
+      "incorrect_answers": [
+        "Vikings",
+        "The%20100",
+        "Outlander"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20TV%20show%20set%20in%20a%20fictional%20paper%20company%20in%20Scranton%2C%20Pennsylvania%3F",
+      "correct_answer": "The%20Office%20(US)",
+      "incorrect_answers": [
+        "Brooklyn%20Nine-Nine",
+        "Parks%20and%20Recreation",
+        "Arrested%20Development"
+      ]
+    },
+    {
+      "category": "Television%20Shows",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20TV%20show%20features%20a%20genius%20consulting%20detective%20named%20Sherlock%20Holmes%3F",
+      "correct_answer": "Sherlock",
+      "incorrect_answers": [
+        "Elementary",
+        "Dexter",
+        "Luther"
+      ]
+    }
+  ]
+}

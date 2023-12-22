@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo%20da%20Vinci",
+      "incorrect_answers": [
+        "Vincent%20van%20Gogh",
+        "Pablo%20Picasso",
+        "Michelangelo"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist is famous for his 'Campbell's Soup Cans'?",
+      "correct_answer": "Andy%20Warhol",
+      "incorrect_answers": [
+        "Salvador%20Dali",
+        "Jackson%20Pollock",
+        "Claude%20Monet"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who sculpted the Statue of David?",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": [
+        "Donatello",
+        "Leonardo%20da%20Vinci",
+        "Raphael"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which art movement includes works like 'The Persistence of Memory' by Salvador Dali?",
+      "correct_answer": "Surrealism",
+      "incorrect_answers": [
+        "Cubism",
+        "Impressionism",
+        "Abstract%20Expressionism"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted 'Starry Night'?",
+      "correct_answer": "Vincent%20van%20Gogh",
+      "incorrect_answers": [
+        "Pablo%20Picasso",
+        "Claude%20Monet",
+        "Leonardo%20da%20Vinci"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist is associated with the creation of 'The Birth of Venus'?",
+      "correct_answer": "Sandro%20Botticelli",
+      "incorrect_answers": [
+        "Caravaggio",
+        "Raphael",
+        "Titian"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is known for painting 'The Scream'?",
+      "correct_answer": "Edvard%20Munch",
+      "incorrect_answers": [
+        "Georges%20Seurat",
+        "Gustav%20Klimt",
+        "Egon%20Schiele"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist is famous for the work 'Guernica'?",
+      "correct_answer": "Pablo%20Picasso",
+      "incorrect_answers": [
+        "Diego%20Rivera",
+        "Joan%20Mir%C3%B3",
+        "Frida%20Kahlo"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted 'The Last Supper'?",
+      "correct_answer": "Leonardo%20da%20Vinci",
+      "incorrect_answers": [
+        "Raphael",
+        "Donatello",
+        "Michelangelo"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which artist is known for his 'Water Lilies' series?",
+      "correct_answer": "Claude%20Monet",
+      "incorrect_answers": [
+        "Piet%20Mondrian",
+        "Georges%20Seurat",
+        "Henri%20Matisse"
+      ]
+    }
+  ]
+}

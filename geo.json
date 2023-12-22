@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Australia?",
+      "correct_answer": "Canberra",
+      "incorrect_answers": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the longest river in the world?",
+      "correct_answer": "Nile",
+      "incorrect_answers": [
+        "Amazon",
+        "Mississippi",
+        "Yangtze"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country is both in Europe and Asia?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": [
+        "Russia",
+        "Germany",
+        "Greece"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the tallest mountain in the world?",
+      "correct_answer": "Mount%20Everest",
+      "incorrect_answers": [
+        "K2",
+        "Kangchenjunga",
+        "Mount%20Kilimanjaro"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which desert is the largest in the world?",
+      "correct_answer": "Sahara%20Desert",
+      "incorrect_answers": [
+        "Arabian%20Desert",
+        "Gobi%20Desert",
+        "Kalahari%20Desert"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which city is located both in Europe and Asia?",
+      "correct_answer": "Istanbul",
+      "incorrect_answers": [
+        "Moscow",
+        "Berlin",
+        "Madrid"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the smallest country in the world?",
+      "correct_answer": "Vatican%20City",
+      "incorrect_answers": [
+        "Monaco",
+        "San%20Marino",
+        "Maldives"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which ocean is the largest?",
+      "correct_answer": "Pacific%20Ocean",
+      "incorrect_answers": [
+        "Atlantic%20Ocean",
+        "Indian%20Ocean",
+        "Arctic%20Ocean"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of Japan?",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": [
+        "Osaka",
+        "Kyoto",
+        "Hiroshima"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country is known as the Land of a Thousand Lakes?",
+      "correct_answer": "Finland",
+      "incorrect_answers": [
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ]
+    }
+  ]
+}

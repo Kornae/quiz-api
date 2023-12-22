@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": [
+        "London",
+        "Berlin",
+        "Rome"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Jupiter",
+        "Saturn",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who painted the Mona Lisa?",
+      "correct_answer": "Leonardo%20da%20Vinci",
+      "incorrect_answers": [
+        "Pablo%20Picasso",
+        "Vincent%20van%20Gogh",
+        "Michelangelo"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest mammal in the world?",
+      "correct_answer": "Blue%20Whale",
+      "incorrect_answers": [
+        "African%20Elephant",
+        "Giraffe",
+        "Hippopotamus"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "correct_answer": "Japan",
+      "incorrect_answers": [
+        "China",
+        "South%20Korea",
+        "Vietnam"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest ocean in the world?",
+      "correct_answer": "Pacific%20Ocean",
+      "incorrect_answers": [
+        "Indian%20Ocean",
+        "Atlantic%20Ocean",
+        "Arctic%20Ocean"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "correct_answer": "Lion",
+      "incorrect_answers": [
+        "Tiger",
+        "Leopard",
+        "Cheetah"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest organ in the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Heart",
+        "Liver",
+        "Brain"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for water?",
+      "correct_answer": "H2O",
+      "incorrect_answers": [
+        "CO2",
+        "NaCl",
+        "O2"
+      ]
+    },
+    {
+      "category": "General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "correct_answer": "William%20Shakespeare",
+      "incorrect_answers": [
+        "Jane%20Austen",
+        "Charles%20Dickens",
+        "Mark%20Twain"
+      ]
+    }
+  ]
+}

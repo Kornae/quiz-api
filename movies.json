@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who directed the movie 'Jurassic Park'?",
+      "correct_answer": "Steven%20Spielberg",
+      "incorrect_answers": [
+        "James%20Cameron",
+        "George%20Lucas",
+        "Christopher%20Nolan"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie won the Academy Award for Best Picture in 1994?",
+      "correct_answer": "Forrest%20Gump",
+      "incorrect_answers": [
+        "Pulp%20Fiction",
+        "The%20Shawshank%20Redemption",
+        "Schindler's%20List"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who played the character Neo in the movie 'The Matrix'?",
+      "correct_answer": "Keanu%20Reeves",
+      "incorrect_answers": [
+        "Tom%20Cruise",
+        "Brad%20Pitt",
+        "Will%20Smith"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the movie 'The Godfather', who played the role of Vito Corleone?",
+      "correct_answer": "Marlon%20Brando",
+      "incorrect_answers": [
+        "Al%20Pacino",
+        "Robert%20De%20Niro",
+        "James%20Caan"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the Academy Award for Best Actor for the movie 'The Revenant'?",
+      "correct_answer": "Leonardo%20DiCaprio",
+      "incorrect_answers": [
+        "Johnny%20Depp",
+        "Brad%20Pitt",
+        "Tom%20Hanks"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie features a character named Jack Dawson?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": [
+        "Inception",
+        "The%20Great%20Gatsby",
+        "Avatar"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who directed the movie 'The Dark Knight'?",
+      "correct_answer": "Christopher%20Nolan",
+      "incorrect_answers": [
+        "Tim%20Burton",
+        "Zack%20Snyder",
+        "Michael%20Bay"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie features the character 'Hannibal Lecter'?",
+      "correct_answer": "The%20Silence%20of%20the%20Lambs",
+      "incorrect_answers": [
+        "Seven",
+        "American%20Psycho",
+        "Misery"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who played the character of Tony Stark in the movie 'Iron Man'?",
+      "correct_answer": "Robert%20Downey%20Jr.",
+      "incorrect_answers": [
+        "Chris%20Evans",
+        "Mark%20Ruffalo",
+        "Chris%20Hemsworth"
+      ]
+    },
+    {
+      "category": "Movies",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie franchise features characters such as Rey, Finn, and Kylo Ren?",
+      "correct_answer": "Star%20Wars",
+      "incorrect_answers": [
+        "Harry%20Potter",
+        "The%20Lord%20of%20the%20Rings",
+        "The%20Avengers"
+      ]
+    }
+  ]
+}

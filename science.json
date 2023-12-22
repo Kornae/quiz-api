@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20chemical%20symbol%20for%20gold%3F",
+      "correct_answer": "Au",
+      "incorrect_answers": [
+        "Go",
+        "Gl",
+        "G"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20largest%20organ%20in%20the%20human%20body%3F",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Heart",
+        "Liver",
+        "Brain"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20process%20by%20which%20plants%20make%20their%20food%3F",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": [
+        "Respiration",
+        "Decomposition",
+        "Fermentation"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20closest%20star%20to%20Earth%20other%20than%20the%20Sun%3F",
+      "correct_answer": "Proxima%20Centauri",
+      "incorrect_answers": [
+        "Alpha%20Centauri",
+        "Betelgeuse",
+        "Sirius"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20chemical%20formula%20for%20water%3F",
+      "correct_answer": "H2O",
+      "incorrect_answers": [
+        "CO2",
+        "O2",
+        "H2SO4"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20planet%20is%20known%20as%20the%20Red%20Planet%3F",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20element%20is%20needed%20to%20start%20a%20fire%3F",
+      "correct_answer": "Oxygen",
+      "incorrect_answers": [
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20the%20Earth's%20atmosphere%20called%3F",
+      "correct_answer": "Meteorology",
+      "incorrect_answers": [
+        "Geology",
+        "Astronomy",
+        "Ecology"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20smallest%20unit%20of%20matter%3F",
+      "correct_answer": "Atom",
+      "incorrect_answers": [
+        "Molecule",
+        "Cell",
+        "Proton"
+      ]
+    },
+    {
+      "category": "Science%3A%20General",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20scientist%20developed%20the%20theory%20of%20relativity%3F",
+      "correct_answer": "Albert%20Einstein",
+      "incorrect_answers": [
+        "Isaac%20Newton",
+        "Stephen%20Hawking",
+        "Niels%20Bohr"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game is commonly referred to as the 'king of battle royale'?",
+      "correct_answer": "PlayerUnknown's%20Battlegrounds%20(PUBG)",
+      "incorrect_answers": [
+        "Fortnite",
+        "Apex%20Legends",
+        "Call%20of%20Duty%3A%20Warzone"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main protagonist in the game 'The Legend of Zelda'?",
+      "correct_answer": "Link",
+      "incorrect_answers": [
+        "Zelda",
+        "Ganondorf",
+        "Sheik"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game 'Minecraft', what is the name of the default player character?",
+      "correct_answer": "Steve",
+      "incorrect_answers": [
+        "Alex",
+        "Notch",
+        "Herobrine"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which video game franchise features a character named Master Chief?",
+      "correct_answer": "Halo",
+      "incorrect_answers": [
+        "Gears%20of%20War",
+        "Call%20of%20Duty",
+        "Destiny"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game developer is responsible for creating 'The Witcher' series?",
+      "correct_answer": "CD%20Projekt",
+      "incorrect_answers": [
+        "Ubisoft",
+        "Bethesda%20Game%20Studios",
+        "BioWare"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game features the character Kratos, the Greek god of war?",
+      "correct_answer": "God%20of%20War",
+      "incorrect_answers": [
+        "Assassin's%20Creed",
+        "Devil%20May%20Cry",
+        "Dark%20Souls"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which gaming console is manufactured by Sony?",
+      "correct_answer": "PlayStation",
+      "incorrect_answers": [
+        "Xbox",
+        "Nintendo%20Switch",
+        "Sega%20Genesis"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which popular video game features a character named 'Chell'?",
+      "correct_answer": "Portal",
+      "incorrect_answers": [
+        "Half-Life",
+        "Team%20Fortress%202",
+        "Left%204%20Dead"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the game 'Overwatch', which character is known for saying 'Cheers, love! The cavalry's here!'?",
+      "correct_answer": "Tracer",
+      "incorrect_answers": [
+        "Soldier%2076",
+        "Widowmaker",
+        "Reinhardt"
+      ]
+    },
+    {
+      "category": "Entertainment%3A%20Video%20Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which video game franchise features a character named 'Mario'?",
+      "correct_answer": "Super%20Mario",
+      "incorrect_answers": [
+        "Sonic%20the%20Hedgehog",
+        "The%20Legend%20of%20Zelda",
+        "Metroid"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20animal%20is%20known%20for%20its%20stripes%20and%20is%20associated%20with%20jungles%3F",
+      "correct_answer": "Tiger",
+      "incorrect_answers": [
+        "Giraffe",
+        "Zebra",
+        "Cheetah"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20largest%20land%20mammal%20in%20the%20world%3F",
+      "correct_answer": "African%20Elephant",
+      "incorrect_answers": [
+        "Giraffe",
+        "Hippopotamus",
+        "White%20Rhinoceros"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20bird%20is%20known%20for%20its%20long%20neck%20and%20ability%20to%20fly%20great%20distances%3F",
+      "correct_answer": "Albatross",
+      "incorrect_answers": [
+        "Flamingo",
+        "Ostrich",
+        "Penguin"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20only%20flying%20mammal%20in%20the%20world%3F",
+      "correct_answer": "Bat",
+      "incorrect_answers": [
+        "Squirrel",
+        "Flying%20Fox",
+        "Marmoset"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20animals%20is%20venomous%3F",
+      "correct_answer": "Black%20Mamba",
+      "incorrect_answers": [
+        "King%20Cobra",
+        "Boa%20Constrictor",
+        "Python"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20largest%20species%20of%20bear%20in%20the%20world%3F",
+      "correct_answer": "Polar%20Bear",
+      "incorrect_answers": [
+        "Brown%20Bear",
+        "Black%20Bear",
+        "Sloth%20Bear"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20animal%20is%20known%20for%20its%20ability%20to%20change%20color%20to%20blend%20with%20its%20environment%3F",
+      "correct_answer": "Chameleon",
+      "incorrect_answers": [
+        "Frog",
+        "Gecko",
+        "Octopus"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20fastest%20land%20animal%20in%20the%20world%3F",
+      "correct_answer": "Cheetah",
+      "incorrect_answers": [
+        "Lion",
+        "Gazelle",
+        "Leopard"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20animal%20is%20known%20for%20its%20long%20tongue%20and%20ability%20to%20capture%20insects%3F",
+      "correct_answer": "Anteater",
+      "incorrect_answers": [
+        "Armadillo",
+        "Pangolin",
+        "Aardvark"
+      ]
+    },
+    {
+      "category": "Science%3A%20Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20world%27s%20largest%20species%20of%20shark%3F",
+      "correct_answer": "Whale%20Shark",
+      "incorrect_answers": [
+        "Great%20White%20Shark",
+        "Hammerhead%20Shark",
+        "Tiger%20Shark"
+      ]
+    }
+  ]
+}

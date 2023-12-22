@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who played Jack Dawson in the movie 'Titanic'?",
+      "correct_answer": "Leonardo%20DiCaprio",
+      "incorrect_answers": [
+        "Brad%20Pitt",
+        "Tom%20Cruise",
+        "Johnny%20Depp"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actress starred in the movie 'Pretty Woman'?",
+      "correct_answer": "Julia%20Roberts",
+      "incorrect_answers": [
+        "Cameron%20Diaz",
+        "Meryl%20Streep",
+        "Reese%20Witherspoon"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is known for playing the character Iron Man in the Marvel Cinematic Universe?",
+      "correct_answer": "Robert%20Downey%20Jr.",
+      "incorrect_answers": [
+        "Chris%20Hemsworth",
+        "Chris%20Evans",
+        "Mark%20Ruffalo"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which pop star is known for the song 'Umbrella'?",
+      "correct_answer": "Rihanna",
+      "incorrect_answers": [
+        "Beyonce",
+        "Lady%20Gaga",
+        "Adele"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won an Academy Award for Best Actor for his role in 'The Revenant'?",
+      "correct_answer": "Leonardo%20DiCaprio",
+      "incorrect_answers": [
+        "Tom%20Hanks",
+        "Brad%20Pitt",
+        "Christian%20Bale"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actor starred as Captain Jack Sparrow in the 'Pirates of the Caribbean' series?",
+      "correct_answer": "Johnny%20Depp",
+      "incorrect_answers": [
+        "Orlando%20Bloom",
+        "Keira%20Knightley",
+        "Geoffrey%20Rush"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the lead vocalist of the band 'Queen'?",
+      "correct_answer": "Freddie%20Mercury",
+      "incorrect_answers": [
+        "David%20Bowie",
+        "Mick%20Jagger",
+        "Elton%20John"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actress starred in the movie 'Mean Girls'?",
+      "correct_answer": "Lindsay%20Lohan",
+      "incorrect_answers": [
+        "Emma%20Watson",
+        "Amanda%20Seyfried",
+        "Scarlett%20Johansson"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is known for being the founder of Facebook?",
+      "correct_answer": "Mark%20Zuckerberg",
+      "incorrect_answers": [
+        "Bill%20Gates",
+        "Jeff%20Bezos",
+        "Elon%20Musk"
+      ]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which actor played the character Neo in 'The Matrix' trilogy?",
+      "correct_answer": "Keanu%20Reeves",
+      "incorrect_answers": [
+        "Tom%20Cruise",
+        "Brad%20Pitt",
+        "Johnny%20Depp"
+      ]
+    }
+  ]
+}

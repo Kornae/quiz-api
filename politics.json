@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who%20was%20the%20first%20President%20of%20the%20United%20States%3F",
+      "correct_answer": "George%20Washington",
+      "incorrect_answers": [
+        "Thomas%20Jefferson",
+        "Abraham%20Lincoln",
+        "John%20Adams"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20maximum%20number%20of%20terms%20a%20President%20can%20serve%20in%20the%20United%20States%3F",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "Unlimited"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who%20is%20the%20current%20Speaker%20of%20the%20United%20States%20House%20of%20Representatives%3F",
+      "correct_answer": "Nancy%20Pelosi",
+      "incorrect_answers": [
+        "Chuck%20Schumer",
+        "Mitch%20McConnell",
+        "Kevin%20McCarthy"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20political%20party%20is%20represented%20by%20the%20color%20red%20in%20the%20United%20States%3F",
+      "correct_answer": "Republican%20Party",
+      "incorrect_answers": [
+        "Democratic%20Party",
+        "Libertarian%20Party",
+        "Green%20Party"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How%20many%20Senators%20are%20there%20in%20the%20United%20States%20Senate%3F",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "50",
+        "200",
+        "75"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who%20is%20the%20current%20Vice%20President%20of%20the%20United%20States%3F",
+      "correct_answer": "Kamala%20Harris",
+      "incorrect_answers": [
+        "Joe%20Biden",
+        "Mike%20Pence",
+        "Nancy%20Pelosi"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20Amendment%20to%20the%20United%20States%20Constitution%20guarantees%20freedom%20of%20speech%3F",
+      "correct_answer": "First",
+      "incorrect_answers": [
+        "Second",
+        "Fourth",
+        "Fifth"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who%20is%20the%20current%20Secretary%20of%20State%20of%20the%20United%20States%3F",
+      "correct_answer": "Antony%20Blinken",
+      "incorrect_answers": [
+        "Mike%20Pompeo",
+        "Hillary%20Clinton",
+        "John%20Kerry"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20capital%20of%20the%20United%20States%3F",
+      "correct_answer": "Washington%2C%20D.C.",
+      "incorrect_answers": [
+        "New%20York%20City%2C%20NY",
+        "Los%20Angeles%2C%20CA",
+        "Chicago%2C%20IL"
+      ]
+    },
+    {
+      "category": "Politics%3A%20US",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who%20was%20the%20only%20US%20President%20to%20resign%20from%20office%3F",
+      "correct_answer": "Richard%20Nixon",
+      "incorrect_answers": [
+        "John%20F.%20Kennedy",
+        "Jimmy%20Carter",
+        "Bill%20Clinton"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George%20Washington",
+      "incorrect_answers": [
+        "Thomas%20Jefferson",
+        "John%20Adams",
+        "James%20Madison"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In which year did Christopher Columbus arrive in the Americas?",
+      "correct_answer": "1492",
+      "incorrect_answers": [
+        "1421",
+        "1532",
+        "1588"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the Declaration of Independence?",
+      "correct_answer": "Thomas%20Jefferson",
+      "incorrect_answers": [
+        "John%20Adams",
+        "Benjamin%20Franklin",
+        "George%20Washington"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What event prompted the United States to enter World War II?",
+      "correct_answer": "Attack%20on%20Pearl%20Harbor",
+      "incorrect_answers": [
+        "Atomic%20Bombing%20of%20Hiroshima",
+        "D-Day%20Invasion",
+        "German%20Invasion%20of%20Poland"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was assassinated on November 22, 1963, in Dallas, Texas?",
+      "correct_answer": "John%20F.%20Kennedy",
+      "incorrect_answers": [
+        "Martin%20Luther%20King%20Jr.",
+        "Malcolm%20X",
+        "Robert%20Kennedy"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which American inventor is known for the electric light bulb?",
+      "correct_answer": "Thomas%20Edison",
+      "incorrect_answers": [
+        "Alexander%20Graham%20Bell",
+        "Nikola%20Tesla",
+        "Benjamin%20Franklin"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the period of tension between the United States and the Soviet Union called?",
+      "correct_answer": "Cold%20War",
+      "incorrect_answers": [
+        "World%20War%20II",
+        "Vietnam%20War",
+        "Korean%20War"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which amendment to the U.S. Constitution abolished slavery?",
+      "correct_answer": "13th%20Amendment",
+      "incorrect_answers": [
+        "14th%20Amendment",
+        "15th%20Amendment",
+        "19th%20Amendment"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who was the President of the United States during the Civil War?",
+      "correct_answer": "Abraham%20Lincoln",
+      "incorrect_answers": [
+        "Andrew%20Johnson",
+        "Ulysses%20S.%20Grant",
+        "Thomas%20Jefferson"
+      ]
+    },
+    {
+      "category": "American%20History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Where was the first successful English colony in America established?",
+      "correct_answer": "Jamestown%2C%20Virginia",
+      "incorrect_answers": [
+        "Plymouth%2C%20Massachusetts",
+        "Roanoke%2C%20Virginia",
+        "St.%20Augustine%2C%20Florida"
+      ]
+    }
+  ]
+}

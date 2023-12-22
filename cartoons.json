@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who lives in a pineapple under the sea?",
+      "correct_answer": "SpongeBob%20SquarePants",
+      "incorrect_answers": [
+        "Patrick%20Star",
+        "Squidward%20Tentacles",
+        "Mr.%20Krabs"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the main character in 'Adventure Time'?",
+      "correct_answer": "Finn%20the%20Human",
+      "incorrect_answers": [
+        "Jake%20the%20Dog",
+        "Princess%20Bubblegum",
+        "Marceline%20the%20Vampire%20Queen"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which cartoon features a character named 'Homer'?",
+      "correct_answer": "The%20Simpsons",
+      "incorrect_answers": [
+        "Family%20Guy",
+        "Rick%20and%20Morty",
+        "South%20Park"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the main character in 'Phineas and Ferb'?",
+      "correct_answer": "Phineas%20Flynn",
+      "incorrect_answers": [
+        "Ferb%20Fletcher",
+        "Candace%20Flynn",
+        "Perry%20the%20Platypus"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which animated series follows the adventures of a boy named Aang?",
+      "correct_answer": "Avatar%3A%20The%20Last%20Airbender",
+      "incorrect_answers": [
+        "Teen%20Titans",
+        "Ben%2010",
+        "Danny%20Phantom"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In 'Scooby-Doo', who is known for saying 'Scooby-Doo, where are you'?",
+      "correct_answer": "Shaggy%20Rogers",
+      "incorrect_answers": [
+        "Fred%20Jones",
+        "Daphne%20Blake",
+        "Velma%20Dinkley"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are the names of the two stepbrothers in 'Phineas and Ferb'?",
+      "correct_answer": "Phineas%20and%20Ferb",
+      "incorrect_answers": [
+        "Ferb%20and%20Isabella",
+        "Candace%20and%20Ferb",
+        "Phineas%20and%20Isabella"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which cartoon features a group of babies and their adventures?",
+      "correct_answer": "Rugrats",
+      "incorrect_answers": [
+        "The%20Wild%20Thornberrys",
+        "Hey%20Arnold%21",
+        "Doug"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the nemesis of Bugs Bunny in many Looney Tunes cartoons?",
+      "correct_answer": "Elmer%20Fudd",
+      "incorrect_answers": [
+        "Daffy%20Duck",
+        "Yosemite%20Sam",
+        "Porky%20Pig"
+      ]
+    },
+    {
+      "category": "Cartoons",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the underwater city in 'SpongeBob SquarePants'?",
+      "correct_answer": "Bikini%20Bottom",
+      "incorrect_answers": [
+        "Krusty%20Krab",
+        "Jellyfish%20Fields",
+        "Rock%20Bottom"
+      ]
+    }
+  ]
+}

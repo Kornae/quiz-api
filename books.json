@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the 'Harry Potter' series?",
+      "correct_answer": "J.K.%20Rowling",
+      "incorrect_answers": [
+        "Stephen%20King",
+        "George%20R.R.%20Martin",
+        "J.R.R.%20Tolkien"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which book is often considered the best-selling book of all time?",
+      "correct_answer": "The%20Bible",
+      "incorrect_answers": [
+        "Don%20Quixote",
+        "A%20Tale%20of%20Two%20Cities",
+        "The%20Lord%20of%20the%20Rings"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "correct_answer": "Harper%20Lee",
+      "incorrect_answers": [
+        "John%20Steinbeck",
+        "F.%20Scott%20Fitzgerald",
+        "Mark%20Twain"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which famous novel begins with the line, 'Call me Ishmael'?",
+      "correct_answer": "Moby%20Dick",
+      "incorrect_answers": [
+        "Pride%20and%20Prejudice",
+        "1984",
+        "The%20Great%20Gatsby"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the author of 'The Catcher in the Rye'?",
+      "correct_answer": "J.D.%20Salinger",
+      "incorrect_answers": [
+        "Ernest%20Hemingway",
+        "F.%20Scott%20Fitzgerald",
+        "Harper%20Lee"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which book series is authored by J.R.R. Tolkien?",
+      "correct_answer": "The%20Lord%20of%20the%20Rings",
+      "incorrect_answers": [
+        "A%20Song%20of%20Ice%20and%20Fire",
+        "Divergent",
+        "The%20Hunger%20Games"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote the famous play 'Romeo and Juliet'?",
+      "correct_answer": "William%20Shakespeare",
+      "incorrect_answers": [
+        "Jane%20Austen",
+        "Charles%20Dickens",
+        "Mark%20Twain"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which novel is known for the line, 'It was the best of times, it was the worst of times'?",
+      "correct_answer": "A%20Tale%20of%20Two%20Cities",
+      "incorrect_answers": [
+        "Brave%20New%20World",
+        "The%20Catcher%20in%20the%20Rye",
+        "To%20Kill%20a%20Mockingbird"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who wrote 'The Great Gatsby'?",
+      "correct_answer": "F.%20Scott%20Fitzgerald",
+      "incorrect_answers": [
+        "Ernest%20Hemingway",
+        "Mark%20Twain",
+        "John%20Steinbeck"
+      ]
+    },
+    {
+      "category": "Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the title of George Orwell's famous dystopian novel?",
+      "correct_answer": "1984",
+      "incorrect_answers": [
+        "Animal%20Farm",
+        "Brave%20New%20World",
+        "Fahrenheit%20451"
+      ]
+    }
+  ]
+}
