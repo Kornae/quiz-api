@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the value of π (pi) rounded to two decimal places?",
+      "correct_answer": "3.14",
+      "incorrect_answers": [
+        "3.16",
+        "3.12",
+        "3.18"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the result of 5 squared?",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "20",
+        "10",
+        "30"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the value of the square root of 144?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "14"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If a = 5 and b = 7, what is the value of a + b?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "11",
+        "14"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the next number in the Fibonacci sequence after 8?",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "11",
+        "15",
+        "12"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many sides does a hexagon have?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the value of 10 factorial?",
+      "correct_answer": "3628800",
+      "incorrect_answers": [
+        "720",
+        "120",
+        "5040"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the perimeter of a rectangle with sides of length 4 and 6?",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "24",
+        "16",
+        "30"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the value of 2 to the power of 5?",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "25",
+        "10",
+        "16"
+      ]
+    },
+    {
+      "category": "Science%3A%20Mathematics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "If x = 3 and y = 4, what is the value of x squared plus y squared?",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "12",
+        "15",
+        "20"
+      ]
+    }
+  ]
+}
