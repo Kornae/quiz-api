@@ -53,12 +53,12 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "What%20is%20the%20square%20root%20of%20144%3F",
-      "correct_answer": "12",
+      "question": "What%20is%2012%20times%204%20minus%2018%3F",
+      "correct_answer": "30",
       "incorrect_answers": [
-        "10",
-        "14",
-        "16"
+        "34",
+        "38",
+        "42"
       ]
     },
     {
