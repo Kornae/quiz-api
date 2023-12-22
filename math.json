@@ -2,123 +2,123 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Science%3A%20Mathematics",
+      "category": "Math",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the value of π (pi) rounded to two decimal places?",
-      "correct_answer": "3.14",
-      "incorrect_answers": [
-        "3.16",
-        "3.12",
-        "3.18"
-      ]
-    },
-    {
-      "category": "Science%3A%20Mathematics",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the result of 5 squared?",
-      "correct_answer": "25",
-      "incorrect_answers": [
-        "20",
-        "10",
-        "30"
-      ]
-    },
-    {
-      "category": "Science%3A%20Mathematics",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the value of the square root of 144?",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "14"
-      ]
-    },
-    {
-      "category": "Science%3A%20Mathematics",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "If a = 5 and b = 7, what is the value of a + b?",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "10",
-        "11",
-        "14"
-      ]
-    },
-    {
-      "category": "Science%3A%20Mathematics",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the next number in the Fibonacci sequence after 8?",
-      "correct_answer": "13",
-      "incorrect_answers": [
-        "11",
-        "15",
-        "12"
-      ]
-    },
-    {
-      "category": "Science%3A%20Mathematics",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "How many sides does a hexagon have?",
-      "correct_answer": "6",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20'x'%20in%20the%20equation%3A%203x%20%2B%202%20%3D%2014%3F",
+      "correct_answer": "4",
       "incorrect_answers": [
         "5",
-        "7",
-        "8"
+        "6",
+        "3"
       ]
     },
     {
-      "category": "Science%3A%20Mathematics",
+      "category": "Math",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the value of 10 factorial?",
-      "correct_answer": "3628800",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20product%20of%204%20and%209%20plus%20the%20sum%20of%203%20and%207%3F",
+      "correct_answer": "76",
       "incorrect_answers": [
-        "720",
-        "120",
-        "5040"
+        "80",
+        "72",
+        "68"
       ]
     },
     {
-      "category": "Science%3A%20Mathematics",
+      "category": "Math",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the perimeter of a rectangle with sides of length 4 and 6?",
-      "correct_answer": "20",
+      "difficulty": "medium",
+      "question": "If%20a%20rectangle%20has%20a%20length%20of%2012%20units%20and%20a%20width%20of%208%20units%2C%20what%20is%20its%20area%3F",
+      "correct_answer": "96%20square%20units",
       "incorrect_answers": [
-        "24",
-        "16",
-        "30"
+        "80%20square%20units",
+        "104%20square%20units",
+        "64%20square%20units"
       ]
     },
     {
-      "category": "Science%3A%20Mathematics",
+      "category": "Math",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the value of 2 to the power of 5?",
-      "correct_answer": "32",
+      "difficulty": "medium",
+      "question": "What%20is%2020%25%20of%2080%3F",
+      "correct_answer": "16",
       "incorrect_answers": [
-        "25",
+        "18",
+        "20",
+        "14"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20square%20root%20of%20144%3F",
+      "correct_answer": "12",
+      "incorrect_answers": [
         "10",
+        "14",
         "16"
       ]
     },
     {
-      "category": "Science%3A%20Mathematics",
+      "category": "Math",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "If x = 3 and y = 4, what is the value of x squared plus y squared?",
-      "correct_answer": "25",
+      "difficulty": "medium",
+      "question": "If%20a%20circle%20has%20a%20diameter%20of%2010%20units%2C%20what%20is%20its%20circumference%20(use%20%CF%80%20as%203.14)%3F",
+      "correct_answer": "31.4%20units",
       "incorrect_answers": [
-        "12",
-        "15",
-        "20"
+        "28.6%20units",
+        "34.7%20units",
+        "25.2%20units"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20a%20triangle%20has%20a%20base%20of%2020%20units%20and%20a%20height%20of%206%20units%2C%20what%20is%20its%20area%3F",
+      "correct_answer": "60%20square%20units",
+      "incorrect_answers": [
+        "120%20square%20units",
+        "40%20square%20units",
+        "30%20square%20units"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%2015%25%20of%2040%3F",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "10",
+        "12"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20a%20number%20is%20increased%20by%2030%25%2C%20what%20percent%20of%20the%20original%20number%20does%20it%20become%3F",
+      "correct_answer": "130%25",
+      "incorrect_answers": [
+        "90%25",
+        "110%25",
+        "120%25"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20'x'%20in%20the%20equation%3A%204x%20%2B%206%20%3D%2022%3F",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "3"
       ]
     }
   ]

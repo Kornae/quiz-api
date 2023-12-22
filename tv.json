@@ -2,123 +2,123 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which%20TV%20show%20follows%20the%20story%20of%20Walter%20White%2C%20a%20chemistry%20teacher%20turned%20meth%20manufacturer%3F",
-      "correct_answer": "Breaking%20Bad",
+      "question": "Who%20played%20the%20character%20'Blanche%20Devereaux'%20in%20the%20TV%20show%20'Golden%20Girls'?",
+      "correct_answer": "Rue%20McClanahan",
       "incorrect_answers": [
-        "Stranger%20Things",
-        "The%20Walking%20Dead",
-        "Game%20of%20Thrones"
+        "Betty%20White",
+        "Bea%20Arthur",
+        "Estelle%20Getty"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "In%20which%20TV%20show%20would%20you%20find%20the%20character%20named%20Dexter%2C%20a%20forensic%20blood%20spatter%20analyst%20and%20vigilante%20serial%20killer%3F",
-      "correct_answer": "Dexter",
+      "question": "Which%20Disney%20Channel%20show%20features%20a%20girl%20who%20has%20a%20secret%20double%20life%20as%20a%20pop%20star%3F",
+      "correct_answer": "Hannah%20Montana",
       "incorrect_answers": [
-        "Breaking%20Bad",
-        "Sherlock",
-        "Hannibal"
+        "Wizards%20of%20Waverly%20Place",
+        "Lizzie%20McGuire",
+        "That's%20So%20Raven"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which%20TV%20show%20is%20set%20in%20the%20fictional%20Seven%20Kingdoms%20of%20Westeros%3F",
-      "correct_answer": "Game%20of%20Thrones",
+      "question": "Which%20TV%20show%20featured%20characters%20such%20as%20Michael%20Kyle%20and%20Jay%20Kyle%20and%20was%20broadcasted%20on%20BET%3F",
+      "correct_answer": "My%20Wife%20and%20Kids",
       "incorrect_answers": [
-        "The%20Crown",
-        "Stranger%20Things",
-        "The%20Mandalorian"
+        "The%20Game",
+        "Being%20Mary%20Jane",
+        "Real%20Husbands%20of%20Hollywood"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What%20is%20the%20name%20of%20the%20TV%20show%20set%20in%20the%201980s%20where%20a%20group%20of%20kids%20encounter%20strange%20supernatural%20events%20in%20a%20small%20town%3F",
-      "correct_answer": "Stranger%20Things",
+      "question": "Who%20is%20the%20main%20character%20in%20the%20TV%20show%20'Fresh%20Prince%20of%20Bel-Air'%3F",
+      "correct_answer": "Will%20Smith",
       "incorrect_answers": [
-        "The%20X-Files",
-        "Dark",
-        "Twin%20Peaks"
+        "Martin%20Lawrence",
+        "Eddie%20Murphy",
+        "Damon%20Wayans"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which%20TV%20show%20features%20characters%20such%20as%20Phoebe%2C%20Joey%2C%20and%20Ross%3F",
+      "question": "Which%20TV%20show%20features%20characters%20named%20Rachel%2C%20Ross%2C%20and%20Chandler%3F",
       "correct_answer": "Friends",
       "incorrect_answers": [
-        "The%20Office%20(US)",
+        "Seinfeld",
         "How%20I%20Met%20Your%20Mother",
-        "Parks%20and%20Recreation"
+        "The%20Big%20Bang%20Theory"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What%20is%20the%20TV%20show%20centered%20around%20the%20lives%20of%20doctors%20and%20nurses%20at%20the%20Grey%20Sloan%20Memorial%20Hospital%3F",
-      "correct_answer": "Grey's%20Anatomy",
+      "question": "What%20was%20the%20name%20of%20the%20neighbor%20in%20the%20TV%20show%20'Home%20Improvement'%3F",
+      "correct_answer": "Wilson",
       "incorrect_answers": [
-        "ER",
-        "House",
-        "Chicago%20Med"
+        "Timothy",
+        "Tommy",
+        "Walter"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What%20TV%20show%20is%20about%20a%20high%20school%20chemistry%20teacher%20who%20starts%20cooking%20meth%20to%20provide%20for%20his%20family%20after%20being%20diagnosed%20with%20cancer%3F",
-      "correct_answer": "Breaking%20Bad",
+      "question": "What%20was%20the%20name%20of%20the%20high%20school%20in%20the%20TV%20show%20'Saved%20by%20the%20Bell'%3F",
+      "correct_answer": "Bayside%20High%20School",
       "incorrect_answers": [
-        "The%20Sopranos",
-        "Mad%20Men",
-        "Better%20Call%20Saul"
+        "Ridgemont%20High%20School",
+        "Springfield%20High%20School",
+        "West%20Beverly%20High%20School"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which%20TV%20show%20is%20known%20for%20the%20line%3A%20\"You%20know%20nothing%2C%20Jon%20Snow\"%3F",
-      "correct_answer": "Game%20of%20Thrones",
+      "question": "Which%20TV%20show%20featured%20a%20group%20of%20friends%20living%20in%20an%20apartment%20building%20called%20'Monk's%20Cafe'%3F",
+      "correct_answer": "Seinfeld",
       "incorrect_answers": [
-        "Vikings",
-        "The%20100",
-        "Outlander"
+        "Friends",
+        "How%20I%20Met%20Your%20Mother",
+        "The%20Big%20Bang%20Theory"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "What%20is%20the%20TV%20show%20set%20in%20a%20fictional%20paper%20company%20in%20Scranton%2C%20Pennsylvania%3F",
-      "correct_answer": "The%20Office%20(US)",
+      "question": "In%20which%20TV%20show%20would%20you%20find%20characters%20named%20Mickey%2C%20Minnie%2C%20and%20Donald%3F",
+      "correct_answer": "Disney's%20House%20of%20Mouse",
       "incorrect_answers": [
-        "Brooklyn%20Nine-Nine",
-        "Parks%20and%20Recreation",
-        "Arrested%20Development"
+        "DuckTales",
+        "The%20Simpsons",
+        "Family%20Guy"
       ]
     },
     {
-      "category": "Television%20Shows",
+      "category": "TV",
       "type": "multiple",
       "difficulty": "easy",
-      "question": "Which%20TV%20show%20features%20a%20genius%20consulting%20detective%20named%20Sherlock%20Holmes%3F",
-      "correct_answer": "Sherlock",
+      "question": "Who%20hosted%20the%20TV%20show%20'Betty%20White%27s%20Off%20Their%20Rockers'%3F",
+      "correct_answer": "Betty%20White",
       "incorrect_answers": [
-        "Elementary",
-        "Dexter",
-        "Luther"
+        "Ellen%20DeGeneres",
+        "Oprah%20Winfrey",
+        "Tyra%20Banks"
       ]
     }
   ]
