@@ -4,32 +4,8 @@
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "What%20is%20the%20solution%20to%20the%20equation%203x%20-%204%20=%208%3F",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "2",
-        "6",
-        "10"
-      ]
-    },
-    {
-      "category": "Math",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "If%202y%20+%205%20=%2013%2C%20what%20is%20the%20value%20of%20y%3F",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "2",
-        "3",
-        "6"
-      ]
-    },
-    {
-      "category": "Math",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Solve%20for%20x%20in%20the%20equation%20%2810x%20-%203%29%20=%2027%3B",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20number%20of%20sides%20in%20a%20triangle%3F",
       "correct_answer": "3",
       "incorrect_answers": [
         "4",
@@ -40,85 +16,109 @@
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "If%20x%20-%202%20=%2010%2C%20what%20is%20the%20value%20of%20x%3F",
-      "correct_answer": "12",
+      "difficulty": "easy",
+      "question": "How%20many%20degrees%20are%20there%20in%20a%20right%20angle%3F",
+      "correct_answer": "90",
       "incorrect_answers": [
-        "8",
-        "14",
-        "18"
+        "45",
+        "180",
+        "60"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "Simplify%20the%20expression%20%283y%20+%204%29%20-%20%282y%20-%203%29%3B",
-      "correct_answer": "5y%20+%207",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20a%20three-sided%20polygon%3F",
+      "correct_answer": "Triangle",
       "incorrect_answers": [
-        "y%20+%207",
-        "y%20-%201",
-        "y%20+%204"
+        "Rectangle",
+        "Square",
+        "Pentagon"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "Factorize%20the%20expression%20%282x%5E2%20+%204x%20-%205%29%3B",
-      "correct_answer": "(2x%20-%201)(x%20+%205)",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20shapes%20has%20no%20vertices%3F",
+      "correct_answer": "Circle",
       "incorrect_answers": [
-        "(2x%20+%201)(x%20-%205)",
-        "(x%20+%201)(2x%20-%205)",
-        "(x%20-%201)(2x%20+%205)"
+        "Triangle",
+        "Square",
+        "Pentagon"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "If%204x%20=%2016%2C%20what%20is%20the%20value%20of%20x%3F",
-      "correct_answer": "4",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20a%20four-sided%20polygon%3F",
+      "correct_answer": "Quadrilateral",
       "incorrect_answers": [
-        "6",
-        "8",
-        "10"
+        "Pentagon",
+        "Hexagon",
+        "Octagon"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "Solve%20for%20y%20in%20the%20equation%20%284y%20+%201%29%20=%2013%3B",
-      "correct_answer": "3",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20a%20straight%20line%20that%20touches%20the%20circumference%20of%20a%20circle%3F",
+      "correct_answer": "Tangent",
       "incorrect_answers": [
-        "2",
-        "4",
-        "5"
+        "Secant",
+        "Chord",
+        "Diameter"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "What%20is%20the%20value%20of%20%28x%20times%202%29%20plus%203%20if%20x%20=%204%3F",
-      "correct_answer": "11",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20a%20symmetrical%20shape%3F",
+      "correct_answer": "Square",
       "incorrect_answers": [
-        "14",
-        "9",
-        "7"
+        "Triangle",
+        "Pentagon",
+        "Circle"
       ]
     },
     {
       "category": "Math",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "If%20y%20-%203%20=%207%2C%20what%20is%20the%20value%20of%20y%3F",
-      "correct_answer": "10",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20a%20six-sided%20polygon%3F",
+      "correct_answer": "Hexagon",
       "incorrect_answers": [
-        "8",
-        "12",
-        "14"
+        "Pentagon",
+        "Octagon",
+        "Heptagon"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20total%20number%20of%20degrees%20in%20a%20triangle%3F",
+      "correct_answer": "180",
+      "incorrect_answers": [
+        "90",
+        "270",
+        "360"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20a%20five-sided%20polygon%3F",
+      "correct_answer": "Pentagon",
+      "incorrect_answers": [
+        "Hexagon",
+        "Octagon",
+        "Heptagon"
       ]
     }
   ]
