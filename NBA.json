@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NBA%20player%20holds%20the%20record%20for%20the%20most%20points%20scored%20in%20a%20single%20game%3F",
+      "correct_answer": "Wilt%20Chamberlain",
+      "incorrect_answers": [
+        "Michael%20Jordan",
+        "Kobe%20Bryant",
+        "LeBron%20James"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20team%20holds%20the%20record%20for%20the%20most%20NBA%20championships%20won%3F",
+      "correct_answer": "Boston%20Celtics",
+      "incorrect_answers": [
+        "Los%20Angeles%20Lakers",
+        "Chicago%20Bulls",
+        "Golden%20State%20Warriors"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20youngest%20player%20to%20score%2050%20points%20in%20an%20NBA%20game%3F",
+      "correct_answer": "Devin%20Booker",
+      "incorrect_answers": [
+        "LeBron%20James",
+        "Kobe%20Bryant",
+        "Kevin%20Durant"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20NBA%20player%20holds%20the%20record%20for%20the%20most%20career%20triple-doubles%3F",
+      "correct_answer": "Russell%20Westbrook",
+      "incorrect_answers": [
+        "Magic%20Johnson",
+        "LeBron%20James",
+        "Oscar%20Robertson"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NBA%20team%20won%20the%20first-ever%20NBA%20championship%20in%201947%3F",
+      "correct_answer": "Philadelphia%20Warriors",
+      "incorrect_answers": [
+        "Boston%20Celtics",
+        "Minneapolis%20Lakers",
+        "Chicago%20Stags"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20tallest%20player%20to%20ever%20play%20in%20the%20NBA%3F",
+      "correct_answer": "Gheorghe%20Muresan",
+      "incorrect_answers": [
+        "Yao%20Ming",
+        "Manute%20Bol",
+        "Shawn%20Bradley"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NBA%20player%20has%20the%20nickname%20'The%20Answer'%3F",
+      "correct_answer": "Allen%20Iverson",
+      "incorrect_answers": [
+        "Tracy%20McGrady",
+        "Shaquille%20O%27Neal",
+        "Steve%20Nash"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NBA%20player%20holds%20the%20record%20for%20the%20most%20three-pointers%20made%20in%20a%20single%20game%3F",
+      "correct_answer": "Klay%20Thompson",
+      "incorrect_answers": [
+        "Stephen%20Curry",
+        "Ray%20Allen",
+        "James%20Harden"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20year%20was%20the%20NBA%20founded%3F",
+      "correct_answer": "1946",
+      "incorrect_answers": [
+        "1950",
+        "1947",
+        "1949"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20NBA%20MVP%20awards%3F",
+      "correct_answer": "Kareem%20Abdul-Jabbar",
+      "incorrect_answers": [
+        "Michael%20Jordan",
+        "LeBron%20James",
+        "Magic%20Johnson"
+      ]
+    }
+  ]
+}

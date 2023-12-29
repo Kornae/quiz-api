@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20sin%2860%C2%B0%29%3F",
+      "correct_answer": "sqrt%283%29%20%2F%202",
+      "incorrect_answers": [
+        "1",
+        "sqrt%282%29%20%2F%202",
+        "2"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20cos%2830%C2%B0%29%3F",
+      "correct_answer": "sqrt%283%29%20%2F%202",
+      "incorrect_answers": [
+        "sqrt%282%29%20%2F%202",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20tan%2845%C2%B0%29%3F",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "sqrt%282%29",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20sin%20A%20%3D%20sqrt%283%29%20%2F%202%20and%20cos%20A%20%3D%201%20%2F%202%2C%20what%20is%20tan%20A%3F",
+      "correct_answer": "sqrt%283%29",
+      "incorrect_answers": [
+        "sqrt%282%29",
+        "2",
+        "1"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20tan%20A%20%3D%201%2C%20what%20is%20the%20value%20of%20cos%20A%3F",
+      "correct_answer": "1%20%2F%20sqrt%282%29",
+      "incorrect_answers": [
+        "sqrt%282%29",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20sin%20A%20%3D%201%2F%202%2C%20what%20is%20the%20value%20of%20csc%20A%3F",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "sqrt%283%29",
+        "0"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20cot%20A%20if%20sin%20A%20%3D%20sqrt%283%29%20%2F%202%3F",
+      "correct_answer": "1%20%2F%20sqrt%283%29",
+      "incorrect_answers": [
+        "sqrt%283%29",
+        "sqrt%282%29",
+        "2"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20cos%20A%20%3D%20sqrt%283%29%20%2F%202%2C%20what%20is%20the%20value%20of%20sec%20A%3F",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "sqrt%283%29",
+        "1",
+        "0"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20sec%20A%20%3D%202%2C%20what%20is%20the%20value%20of%20cos%20A%3F",
+      "correct_answer": "1%20%2F%202",
+      "incorrect_answers": [
+        "2",
+        "1",
+        "sqrt%282%29"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20csc%20A%20%3D%202%2C%20what%20is%20the%20value%20of%20sin%20A%3F",
+      "correct_answer": "1%20%2F%202",
+      "incorrect_answers": [
+        "2",
+        "1",
+        "sqrt%282%29"
+      ]
+    }
+  ]
+}

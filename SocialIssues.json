@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20term%20describes%20the%20unfair%20prejudicial%20treatment%20of%20individuals%20based%20on%20their%20race%20or%20ethnicity%3F",
+      "correct_answer": "Racism",
+      "incorrect_answers": [
+        "Discrimination",
+        "Prejudice",
+        "Stereotyping"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20state%20of%20economic%20inequality%2C%20often%20characterized%20by%20a%20large%20gap%20between%20the%20wealthiest%20and%20poorest%20members%20of%20society%3F",
+      "correct_answer": "Income%20Inequality",
+      "incorrect_answers": [
+        "Social%20Stratification",
+        "Economic%20Disparity",
+        "Wealth%20Gap"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20a%20system%20whereby%20an%20individual%27s%20opportunities%20are%20influenced%20by%20their%20socioeconomic%20status%20at%20birth%3F",
+      "correct_answer": "Social%20Mobility",
+      "incorrect_answers": [
+        "Meritocracy",
+        "Social%20Stratification",
+        "Economic%20Inequality"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20system%20whereby%20one%20group%20holds%20most%20of%20the%20economic%20and%20political%20power%20in%20a%20society%3F",
+      "correct_answer": "Oligarchy",
+      "incorrect_answers": [
+        "Democracy",
+        "Plutocracy",
+        "Aristocracy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20phenomenon%20whereby%20a%20certain%20group%20of%20people%20face%20prejudice%20and%20discrimination%20due%20to%20their%20age%3F",
+      "correct_answer": "Ageism",
+      "incorrect_answers": [
+        "Classism",
+        "Sexism",
+        "Racism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20an%20unjust%20or%20cruel%20treatment%20of%20individuals%20due%20to%20their%20gender%3F",
+      "correct_answer": "Sexism",
+      "incorrect_answers": [
+        "Misogyny",
+        "Patriarchy",
+        "Ageism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20system%20whereby%20individuals%20are%20treated%20differently%20based%20on%20their%20sexual%20orientation%3F",
+      "correct_answer": "Homophobia",
+      "incorrect_answers": [
+        "Heterosexism",
+        "LGBTQIA%2B%20Discrimination",
+        "Sexual%20Discrimination"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20political%20ideology%20that%20favors%20government%20control%20of%20the%20means%20of%20production%20and%20the%20redistribution%20of%20wealth%3F",
+      "correct_answer": "Socialism",
+      "incorrect_answers": [
+        "Capitalism",
+        "Communism",
+        "Libertarianism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20belief%20or%20attitude%20that%20one%27s%20own%20culture%20is%20superior%20to%20others%2C%20leading%20to%20judgment%20and%20discrimination%20against%20other%20cultures%3F",
+      "correct_answer": "Ethnocentrism",
+      "incorrect_answers": [
+        "Cultural%20Relativism",
+        "Xenophobia",
+        "Multiculturalism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20unequal%20treatment%20or%20perception%20of%20an%20individual%20based%20on%20their%20physical%20appearance%3F",
+      "correct_answer": "Prejudice",
+      "incorrect_answers": [
+        "Discrimination",
+        "Stereotyping",
+        "Ageism"
+      ]
+    }
+  ]
+}

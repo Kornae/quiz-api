@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20known%20for%20the%20construction%20of%20the%20pyramids%20at%20Giza%3F",
+      "correct_answer": "Ancient%20Egypt",
+      "incorrect_answers": [
+        "Ancient%20Greece",
+        "Ancient%20Rome",
+        "Mesopotamia"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20city%20of%20Troy%2C%20which%20was%20the%20focus%20of%20the%20Trojan%20War%2C%20is%20located%20in%20which%20modern-day%20country%3F",
+      "correct_answer": "Turkey",
+      "incorrect_answers": [
+        "Greece",
+        "Italy",
+        "Egypt"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20name%20of%20the%20ancient%20city%20located%20in%20present-day%20Mexico%2C%20known%20for%20its%20pyramids%20and%20sophisticated%20civilization%3F",
+      "correct_answer": "Teotihuacan",
+      "incorrect_answers": [
+        "Machu%20Picchu",
+        "Chichen%20Itza",
+        "Cuzco"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20credited%20with%20the%20invention%20of%20writing%20using%20cuneiform%3F",
+      "correct_answer": "Sumerians",
+      "incorrect_answers": [
+        "Mayans",
+        "Aztecs",
+        "Incas"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20Minoan%20civilization%20was%20located%20on%20which%20island%20in%20the%20Mediterranean%20Sea%3F",
+      "correct_answer": "Crete",
+      "incorrect_answers": [
+        "Cyprus",
+        "Sardinia",
+        "Sicily"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20associated%20with%20the%20construction%20of%20the%20Great%20Wall%20of%20China%3F",
+      "correct_answer": "Qin%20Dynasty",
+      "incorrect_answers": [
+        "Han%20Dynasty",
+        "Ming%20Dynasty",
+        "Tang%20Dynasty"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20city%20of%20Babylon%20was%20known%20for%20its%20famous%20hanging%20gardens%2C%20which%20ancient%20civilization%20is%20associated%20with%20this%20city%3F",
+      "correct_answer": "Mesopotamia",
+      "incorrect_answers": [
+        "Egypt",
+        "Greece",
+        "Rome"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20associated%20with%20the%20creation%20of%20the%20Terracotta%20Army%20buried%20with%20the%20First%20Emperor%20of%20China%3F",
+      "correct_answer": "Qin%20Dynasty",
+      "incorrect_answers": [
+        "Han%20Dynasty",
+        "Shang%20Dynasty",
+        "Tang%20Dynasty"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20ancient%20city%20of%20Pompeii%20was%20destroyed%20by%20the%20eruption%20of%20which%20volcano%3F",
+      "correct_answer": "Mount%20Vesuvius",
+      "incorrect_answers": [
+        "Mount%20Etna",
+        "Mount%20St.%20Helens",
+        "Mount%20Krakatoa"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20constructed%20the%20city%20of%20Machu%20Picchu%20in%20the%20Andes%20mountains%20of%20Peru%3F",
+      "correct_answer": "Incas",
+      "incorrect_answers": [
+        "Mayans",
+        "Aztecs",
+        "Moche"
+      ]
+    }
+  ]
+}

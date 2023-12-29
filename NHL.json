@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20career%20points%20in%20the%20NHL%3F",
+      "correct_answer": "Wayne%20Gretzky",
+      "incorrect_answers": [
+        "Mario%20Lemieux",
+        "Jaromir%20Jagr",
+        "Mark%20Messier"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20team%20has%20won%20the%20most%20Stanley%20Cup%20championships%20in%20NHL%20history%3F",
+      "correct_answer": "Montreal%20Canadiens",
+      "incorrect_answers": [
+        "Toronto%20Maple%20Leafs",
+        "Detroit%20Red%20Wings",
+        "Chicago%20Blackhawks"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20career%20goals%20in%20the%20NHL%3F",
+      "correct_answer": "Wayne%20Gretzky",
+      "incorrect_answers": [
+        "Mario%20Lemieux",
+        "Jaromir%20Jagr",
+        "Brett%20Hull"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20goal%20scored%20by%20a%20team%20while%20they%20have%20a%20power%20play%20advantage%20in%20hockey%3F",
+      "correct_answer": "Power%20Play%20Goal",
+      "incorrect_answers": [
+        "Short-Handed%20Goal",
+        "Empty%20Net%20Goal",
+        "Hat%20Trick%20Goal"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NHL%20player%20holds%20the%20record%20for%20the%20most%20career%20assists%3F",
+      "correct_answer": "Wayne%20Gretzky",
+      "incorrect_answers": [
+        "Mario%20Lemieux",
+        "Mark%20Messier",
+        "Steve%20Yzerman"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20team%20won%20the%20most%20recent%20Stanley%20Cup%20championship%20in%20the%20NHL%20as%20of%202022%3F",
+      "correct_answer": "Tampa%20Bay%20Lightning",
+      "incorrect_answers": [
+        "Washington%20Capitals",
+        "St.%20Louis%20Blues",
+        "Chicago%20Blackhawks"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20line%20on%20the%20hockey%20rinks%20that%20divides%20the%20playing%20surface%20into%20two%20zones%3F",
+      "correct_answer": "Blue%20Line",
+      "incorrect_answers": [
+        "Red%20Line",
+        "Center%20Line",
+        "Goal%20Line"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20first%20player%20to%20score%2050%20goals%20in%2050%20games%20in%20the%20NHL%3F",
+      "correct_answer": "Maurice%20Richard",
+      "incorrect_answers": [
+        "Wayne%20Gretzky",
+        "Mario%20Lemieux",
+        "Brett%20Hull"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20penalty%20in%20hockey%20when%20a%20player%20is%20removed%20from%20play%20for%20two%20minutes%20for%20an%20infraction%3F",
+      "correct_answer": "Minor%20Penalty",
+      "incorrect_answers": [
+        "Major%20Penalty",
+        "Game%20Misconduct",
+        "Match%20Penalty"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20shot%20in%20hockey%20where%20a%20player%20scores%20three%20goals%20in%20a%20single%20game%3F",
+      "correct_answer": "Hat%20Trick",
+      "incorrect_answers": [
+        "Power%20Play",
+        "Empty%20Net%20Goal",
+        "Breakaway%20Goal"
+      ]
+    }
+  ]
+}

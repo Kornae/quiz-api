@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20capital%20city%20of%20Japan%3F",
+      "correct_answer": "Tokyo",
+      "incorrect_answers": [
+        "Osaka",
+        "Kyoto",
+        "Hiroshima"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20city%20serves%20as%20the%20capital%20of%20France%3F",
+      "correct_answer": "Paris",
+      "incorrect_answers": [
+        "Marseille",
+        "Lyon",
+        "Nice"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20capital%20city%20of%20Brazil%3F",
+      "correct_answer": "Brasilia",
+      "incorrect_answers": [
+        "Rio%20de%20Janeiro",
+        "Sao%20Paulo",
+        "Salvador"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20city%20serves%20as%20the%20capital%20of%20Spain%3F",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20capital%20city%20of%20Australia%3F",
+      "correct_answer": "Canberra",
+      "incorrect_answers": [
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20city%20serves%20as%20the%20capital%20of%20Canada%3F",
+      "correct_answer": "Ottawa",
+      "incorrect_answers": [
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20capital%20city%20of%20South%20Africa%3F",
+      "correct_answer": "Pretoria",
+      "incorrect_answers": [
+        "Johannesburg",
+        "Cape%20Town",
+        "Durban"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20city%20serves%20as%20the%20capital%20of%20Russia%3F",
+      "correct_answer": "Moscow",
+      "incorrect_answers": [
+        "Saint%20Petersburg",
+        "Novosibirsk",
+        "Yekaterinburg"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20capital%20city%20of%20Italy%3F",
+      "correct_answer": "Rome",
+      "incorrect_answers": [
+        "Milan",
+        "Florence",
+        "Naples"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20city%20serves%20as%20the%20capital%20of%20Argentina%3F",
+      "correct_answer": "Buenos%20Aires",
+      "incorrect_answers": [
+        "Cordoba",
+        "Rosario",
+        "Mendoza"
+      ]
+    }
+  ]
+}

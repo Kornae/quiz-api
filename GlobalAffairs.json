@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20idea%20that%20actions%20taken%20by%20one%20country%20in%20the%20international%20arena%20can%20affect%20other%20nations%20and%20have%20global%20consequences%3F",
+      "correct_answer": "Globalization",
+      "incorrect_answers": [
+        "Isolationism",
+        "Internationalism",
+        "Nationalism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20used%20to%20describe%20the%20exchange%20of%20goods%2C%20services%2C%20and%20ideas%20between%20different%20countries%20and%20cultures%3F",
+      "correct_answer": "Cultural%20Exchange",
+      "incorrect_answers": [
+        "International%20Trade",
+        "Global%20Alliance",
+        "Transnationalism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20an%20agreement%20or%20partnership%20between%20countries%20aimed%20at%20achieving%20a%20common%20goal%20or%20addressing%20a%20specific%20issue%3F",
+      "correct_answer": "International%20Cooperation",
+      "incorrect_answers": [
+        "Global%20Conflict",
+        "Foreign%20Intervention",
+        "Transnational%20Corporation"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20government%20policy%20or%20approach%20focused%20on%20promoting%20peace%20and%20avoiding%20conflict%20with%20other%20nations%3F",
+      "correct_answer": "Peace%20Diplomacy",
+      "incorrect_answers": [
+        "Military%20Intervention",
+        "War%20Strategy",
+        "Aggressive%20Foreign%20Policy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20use%20of%20military%20force%20by%20one%20country%20to%20gain%20control%20over%20another%20country%20or%20territory%3F",
+      "correct_answer": "Imperialism",
+      "incorrect_answers": [
+        "Colonization",
+        "Globalization",
+        "Internationalism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20an%20organization%20comprised%20of%20multiple%20countries%20working%20together%20on%20common%20issues%20and%20policies%3F",
+      "correct_answer": "International%20Organization",
+      "incorrect_answers": [
+        "Transnational%20Corporation",
+        "Global%20Alliance",
+        "International%20Trade%20Group"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20practice%20of%20nations%20interacting%20and%20cooperating%20in%20the%20realm%20of%20international%20relations%3F",
+      "correct_answer": "Diplomacy",
+      "incorrect_answers": [
+        "Egalitarianism",
+        "Nationalism",
+        "Cultural%20Assimilation"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20conflict%20between%20two%20or%20more%20countries%20that%20does%20not%20escalate%20to%20a%20full-scale%20war%3F",
+      "correct_answer": "Proxy%20War",
+      "incorrect_answers": [
+        "Cold%20War",
+        "Civil%20War",
+        "International%20Conflict"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20refers%20to%20the%20study%20of%20global%20issues%20and%20relationships%20between%20countries%20in%20the%20international%20arena%3F",
+      "correct_answer": "International%20Relations",
+      "incorrect_answers": [
+        "Global%20Economics",
+        "World%20Politics",
+        "Transnational%20Studies"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20used%20to%20describe%20a%20state%20of%20equilibrium%20or%20stability%20between%20competing%20political%20or%20military%20forces%3F",
+      "correct_answer": "Balance%20of%20Power",
+      "incorrect_answers": [
+        "Global%20Stability",
+        "Political%20Neutrality",
+        "Peace%20Accord"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20career%20home%20runs%20in%20Major%20League%20Baseball%3F",
+      "correct_answer": "Barry%20Bonds",
+      "incorrect_answers": [
+        "Hank%20Aaron",
+        "Babe%20Ruth",
+        "Alex%20Rodriguez"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20team%20holds%20the%20record%20for%20the%20most%20World%20Series%20championships%3F",
+      "correct_answer": "New%20York%20Yankees",
+      "incorrect_answers": [
+        "Boston%20Red%20Sox",
+        "Los%20Angeles%20Dodgers",
+        "San%20Francisco%20Giants"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20the%20first%20player%20to%20break%20the%20color%20barrier%20in%20MLB%20by%20joining%20the%20Brooklyn%20Dodgers%20in%201947%3F",
+      "correct_answer": "Jackie%20Robinson",
+      "incorrect_answers": [
+        "Satchel%20Paige",
+        "Willie%20Mays",
+        "Hank%20Aaron"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20pitcher%20holds%20the%20record%20for%20the%20most%20career%20strikeouts%20in%20MLB%3F",
+      "correct_answer": "Nolan%20Ryan",
+      "incorrect_answers": [
+        "Randy%20Johnson",
+        "Roger%20Clemens",
+        "Greg%20Maddux"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20home%20run%20hit%20when%20the%20batter%20hits%20all%20three%20bases%20in%20succession%3F",
+      "correct_answer": "Inside-the-Park%20Home%20Run",
+      "incorrect_answers": [
+        "Grand%20Slam",
+        "Bunt%20Home%20Run",
+        "Moonshot%20Home%20Run"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20player%20holds%20the%20record%20for%20the%20most%20career%20hits%20in%20MLB%3F",
+      "correct_answer": "Pete%20Rose",
+      "incorrect_answers": [
+        "Hank%20Aaron",
+        "Ty%20Cobb",
+        "Stan%20Musial"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20team%20won%20the%20first%20ever%20World%20Series%20in%20Major%20League%20Baseball%3F",
+      "correct_answer": "Boston%20Americans",
+      "incorrect_answers": [
+        "Chicago%20White%20Sox",
+        "New%20York%20Giants",
+        "Philadelphia%20Athletics"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20player%20holds%20the%20record%20for%20the%20highest%20career%20batting%20average%20in%20MLB%3F",
+      "correct_answer": "Ty%20Cobb",
+      "incorrect_answers": [
+        "Babe%20Ruth",
+        "Ted%20Williams",
+        "Honus%20Wagner"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20pitcher%20who%20throws%20the%20ball%20with%20his%20left%20hand%20in%20baseball%3F",
+      "correct_answer": "Southpaw",
+      "incorrect_answers": [
+        "Slurve",
+        "Knuckleballer",
+        "Submariner"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20hit%20in%20baseball%20where%20the%20batter%20advances%20to%20third%20base%20safely%20in%20one%20play%3F",
+      "correct_answer": "Triple",
+      "incorrect_answers": [
+        "Double",
+        "Home%20Run",
+        "Bunt"
+      ]
+    }
+  ]
+}

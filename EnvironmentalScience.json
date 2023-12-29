@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20primary%20greenhouse%20gas%20responsible%20for%20climate%20change%3F",
+      "correct_answer": "Carbon%20Dioxide%20(CO2)",
+      "incorrect_answers": [
+        "Methane%20(CH4)",
+        "Nitrous%20Oxide%20(N2O)",
+        "Ozone%20(O3)"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20the%20gradual%20increase%20in%20the%20Earth's%20temperature%20due%20to%20human%20activity%3F",
+      "correct_answer": "Global%20Warming",
+      "incorrect_answers": [
+        "Acid%20Rain",
+        "Ozone%20Depletion",
+        "Deforestation"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20a%20renewable%20source%20of%20energy%3F",
+      "correct_answer": "Solar%20Power",
+      "incorrect_answers": [
+        "Natural%20Gas",
+        "Coal",
+        "Nuclear%20Energy"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20process%20of%20removing%20salt%20from%20seawater%20called%3F",
+      "correct_answer": "Desalination",
+      "incorrect_answers": [
+        "Distillation",
+        "Filtration",
+        "Osmosis"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20the%20loss%20of%20a%20forest%20and%20the%20replacement%20of%20it%20with%20another%20land%20use%3F",
+      "correct_answer": "Deforestation",
+      "incorrect_answers": [
+        "Reforestation",
+        "Afforestation",
+        "Biodiversity"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20an%20example%20of%20a%20non-biodegradable%20material%3F",
+      "correct_answer": "Plastic",
+      "incorrect_answers": [
+        "Paper",
+        "Food%20Waste",
+        "Wood"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20main%20source%20of%20ocean%20pollution%3F",
+      "correct_answer": "Plastic%20Waste",
+      "incorrect_answers": [
+        "Oil%20Spills",
+        "Chemical%20Runoff",
+        "Sewage"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20an%20endangered%20species%20due%20to%20habitat%20destruction%3F",
+      "correct_answer": "Polar%20Bear",
+      "incorrect_answers": [
+        "Lion",
+        "Elephant",
+        "Gorilla"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20the%20event%20where%20a%20large%20portion%20of%20coral%20reef%20becomes%20white%20and%20dead%20due%20to%20environmental%20stress%3F",
+      "correct_answer": "Coral%20Bleaching",
+      "incorrect_answers": [
+        "Coral%20Reef%20Erosion",
+        "Ocean%20Acidification",
+        "Marine%20Pollution"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20the%20interactions%20among%20organisms%20and%20their%20environment%3F",
+      "correct_answer": "Ecology",
+      "incorrect_answers": [
+        "Geology",
+        "Biology",
+        "Meteorology"
+      ]
+    }
+  ]
+}

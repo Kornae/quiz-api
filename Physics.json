@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20unit%20of%20measurement%20for%20force%3F",
+      "correct_answer": "Newton",
+      "incorrect_answers": [
+        "Watt",
+        "Joule",
+        "Volt"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20law%20of%20motion%20states%20that%20every%20object%20persists%20in%20its%20state%20of%20rest%20or%20uniform%20motion%3F",
+      "correct_answer": "Newton's%20First%20Law",
+      "incorrect_answers": [
+        "Newton's%20Second%20Law",
+        "Newton's%20Third%20Law",
+        "Law%20of%20Gravitation"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20motion%20and%20the%20forces%20that%20cause%20it%3F",
+      "correct_answer": "Kinetics",
+      "incorrect_answers": [
+        "Thermodynamics",
+        "Relativity",
+        "Electrodynamics"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20acceleration%20due%20to%20gravity%20on%20Earth%3F",
+      "correct_answer": "9.81%20m%2Fs%C2%B2",
+      "incorrect_answers": [
+        "8.82%20m%2Fs%C2%B2",
+        "10.21%20m%2Fs%C2%B2",
+        "7.36%20m%2Fs%C2%B2"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20SI%20unit%20of%20electric%20charge%3F",
+      "correct_answer": "Coulomb",
+      "incorrect_answers": [
+        "Volt",
+        "Ampere",
+        "Ohm"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20scientific%20term%20for%20the%20bending%20of%20light%3F",
+      "correct_answer": "Refraction",
+      "incorrect_answers": [
+        "Reflection",
+        "Diffraction",
+        "Dispersion"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20physicist%20is%20best%20known%20for%20his%20theory%20of%20relativity%3F",
+      "correct_answer": "Albert%20Einstein",
+      "incorrect_answers": [
+        "Isaac%20Newton",
+        "Stephen%20Hawking",
+        "Niels%20Bohr"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20law%20that%20states%20that%20the%20total%20energy%20of%20an%20isolated%20system%20remains%20constant%20over%20time%3F",
+      "correct_answer": "Law%20of%20Conservation%20of%20Energy",
+      "incorrect_answers": [
+        "Law%20of%20Universal%20Gravitation",
+        "Law%20of%20Thermodynamics",
+        "Law%20of%20Magnetism"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20SI%20unit%20of%20measurement%20for%20length%3F",
+      "correct_answer": "Meter",
+      "incorrect_answers": [
+        "Kilogram",
+        "Second",
+        "Celsius"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20type%20of%20wave%20requires%20a%20medium%20to%20propagate%3F",
+      "correct_answer": "Mechanical%20Wave",
+      "incorrect_answers": [
+        "Electromagnetic%20Wave",
+        "Gravitational%20Wave",
+        "Sound%20Wave"
+      ]
+    }
+  ]
+}

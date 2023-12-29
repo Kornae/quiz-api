@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20known%20as%20the%20'King%20of%20Pop'%3F",
+      "correct_answer": "Michael%20Jackson",
+      "incorrect_answers": [
+        "Elvis%20Presley",
+        "Stevie%20Wonder",
+        "Prince"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20composer%20is%20famous%20for%20the%20'Fifth%20Symphony'%3F",
+      "correct_answer": "Ludwig%20van%20Beethoven",
+      "incorrect_answers": [
+        "Wolfgang%20Amadeus%20Mozart",
+        "Johann%20Sebastian%20Bach",
+        "Franz%20Schubert"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20considered%20the%20'Father%20of%20the%20Symphony'%3F",
+      "correct_answer": "Joseph%20Haydn",
+      "incorrect_answers": [
+        "Wolfgang%20Amadeus%20Mozart",
+        "Ludwig%20van%20Beethoven",
+        "Johann%20Sebastian%20Bach"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20composer%20is%20known%20for%20the%20opera%20'The%20Magic%20Flute'%3F",
+      "correct_answer": "Wolfgang%20Amadeus%20Mozart",
+      "incorrect_answers": [
+        "Ludwig%20van%20Beethoven",
+        "Johann%20Sebastian%20Bach",
+        "Franz%20Schubert"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20known%20as%20the%20'King%20of%20Blues'%3F",
+      "correct_answer": "B.B.%20King",
+      "incorrect_answers": [
+        "Elvis%20Presley",
+        "Stevie%20Wonder",
+        "Chuck%20Berry"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20composer%20is%20known%20for%20the%20piece%20'Clair%20de%20Lune'%3F",
+      "correct_answer": "Claude%20Debussy",
+      "incorrect_answers": [
+        "Johann%20Sebastian%20Bach",
+        "Ludwig%20van%20Beethoven",
+        "Wolfgang%20Amadeus%20Mozart"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20musician%20is%20known%20as%20the%20'Guitar%20God'%3F",
+      "correct_answer": "Jimi%20Hendrix",
+      "incorrect_answers": [
+        "Eric%20Clapton",
+        "Jimmy%20Page",
+        "Carlos%20Santana"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20composed%20the%20'Bolero'%3F",
+      "correct_answer": "Maurice%20Ravel",
+      "incorrect_answers": [
+        "Claude%20Debussy",
+        "Georges%20Bizet",
+        "Erik%20Satie"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20composer%20is%20known%20for%20the%20opera%20'Carmen'%3F",
+      "correct_answer": "Georges%20Bizet",
+      "incorrect_answers": [
+        "Jacques%20Offenbach",
+        "Giacomo%20Puccini",
+        "Giuseppe%20Verdi"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20known%20as%20the%20'Father%20of%20the%20Blues'%3F",
+      "correct_answer": "W.C.%20Handy",
+      "incorrect_answers": [
+        "Scott%20Joplin",
+        "Bessie%20Smith",
+        "Ma%20Rainey"
+      ]
+    }
+  ]
+}

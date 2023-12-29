@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20process%20by%20which%20plants%20make%20their%20food%3F",
+      "correct_answer": "Photosynthesis",
+      "incorrect_answers": [
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20organelle%20is%20known%20as%20the%20'powerhouse'%20of%20the%20cell%3F",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": [
+        "Nucleus",
+        "Endoplasmic%20Reticulum",
+        "Golgi%20Apparatus"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20living%20organisms%20called%3F",
+      "correct_answer": "Biology",
+      "incorrect_answers": [
+        "Geology",
+        "Chemistry",
+        "Physics"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20part%20of%20the%20human%20body%20is%20responsible%20for%20pumping%20blood%20throughout%20the%20body%3F",
+      "correct_answer": "Heart",
+      "incorrect_answers": [
+        "Brain",
+        "Liver",
+        "Kidneys"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20longest%20bone%20in%20the%20human%20body%3F",
+      "correct_answer": "Femur",
+      "incorrect_answers": [
+        "Tibia",
+        "Radius",
+        "Humerus"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20organ%20system%20is%20responsible%20for%20breathing%20in%20humans%3F",
+      "correct_answer": "Respiratory%20System",
+      "incorrect_answers": [
+        "Digestive%20System",
+        "Circulatory%20System",
+        "Nervous%20System"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20unit%20of%20heredity%20in%20living%20organisms%3F",
+      "correct_answer": "Gene",
+      "incorrect_answers": [
+        "Chromosome",
+        "Allele",
+        "Nucleotide"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20smallest%20unit%20of%20life%20that%20can%20replicate%20independently%3F",
+      "correct_answer": "Cell",
+      "incorrect_answers": [
+        "Molecule",
+        "Organism",
+        "Tissue"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20gas%20do%20plants%20use%20during%20photosynthesis%20to%20produce%20food%3F",
+      "correct_answer": "Carbon%20Dioxide",
+      "incorrect_answers": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20scientific%20name%20for%20the%20study%20of%20fungi%3F",
+      "correct_answer": "Mycology",
+      "incorrect_answers": [
+        "Botany",
+        "Zoology",
+        "Bacteriology"
+      ]
+    }
+  ]
+}

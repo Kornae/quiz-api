@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20largest%20desert%20in%20the%20world%3F",
+      "correct_answer": "Sahara%20Desert",
+      "incorrect_answers": [
+        "Gobi%20Desert",
+        "Arabian%20Desert",
+        "Kalahari%20Desert"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20longest%20river%20in%20Europe%3F",
+      "correct_answer": "Volga%20River",
+      "incorrect_answers": [
+        "Danube%20River",
+        "Loire%20River",
+        "Dnieper%20River"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20largest%20lake%20by%20surface%20area%20in%20North%20America%3F",
+      "correct_answer": "Lake%20Superior",
+      "incorrect_answers": [
+        "Great%20Slave%20Lake",
+        "Lake%20Michigan",
+        "Great%20Bear%20Lake"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20highest%20mountain%20range%20in%20the%20world%3F",
+      "correct_answer": "Himalayas",
+      "incorrect_answers": [
+        "Rocky%20Mountains",
+        "Andes",
+        "Alps"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20largest%20rainforest%20in%20the%20world%3F",
+      "correct_answer": "Amazon%20Rainforest",
+      "incorrect_answers": [
+        "Congo%20Rainforest",
+        "Daintree%20Rainforest",
+        "Tongass%20Rainforest"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20most%20active%20volcano%20in%20Europe%3F",
+      "correct_answer": "Mount%20Etna",
+      "incorrect_answers": [
+        "Mount%20Vesuvius",
+        "Stromboli",
+        "Mount%20Pelee"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20tropical%20rainforest%20in%20Africa%3F",
+      "correct_answer": "Congo%20Rainforest",
+      "incorrect_answers": [
+        "Madagascar%20Rainforest",
+        "Ituri%20Rainforest",
+        "Tongass%20Rainforest"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20longest%20river%20in%20Asia%3F",
+      "correct_answer": "Yangtze%20River",
+      "incorrect_answers": [
+        "Ganges%20River",
+        "Mekong%20River",
+        "Yellow%20River"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20desert%20in%20Australia%3F",
+      "correct_answer": "Great%20Victoria%20Desert",
+      "incorrect_answers": [
+        "Simpson%20Desert",
+        "Gibson%20Desert",
+        "Tanami%20Desert"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20highest%20mountain%20in%20North%20America%3F",
+      "correct_answer": "Denali%20(Mount%20McKinley)",
+      "incorrect_answers": [
+        "Mount%20Logan",
+        "Mount%20Saint%20Elias",
+        "Pico%20de%20Orizaba"
+      ]
+    }
+  ]
+}

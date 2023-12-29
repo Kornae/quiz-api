@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20plural%20form%20of%20the%20word%20'child'%3F",
+      "correct_answer": "Children",
+      "incorrect_answers": [
+        "Childs",
+        "Childes",
+        "Childs'"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20past%20tense%20of%20the%20verb%20'sing'%3F",
+      "correct_answer": "Sang",
+      "incorrect_answers": [
+        "Sung",
+        "Singed",
+        "Sang%20or%20Sung"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20of%20the%20following%20words%20is%20a%20synonym%20for%20'beautiful'%3F",
+      "correct_answer": "Gorgeous",
+      "incorrect_answers": [
+        "Ugly",
+        "Plain",
+        "Attractive"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20opposite%20of%20the%20word%20'victory'%3F",
+      "correct_answer": "Defeat",
+      "incorrect_answers": [
+        "Win",
+        "Triumph",
+        "Success"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20word%20means%20'the%20study%20of%20the%20meaning%20of%20words'%3F",
+      "correct_answer": "Semantics",
+      "incorrect_answers": [
+        "Syntax",
+        "Grammar",
+        "Etymology"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20does%20the%20abbreviation%20'etc.'%20stand%20for%3F",
+      "correct_answer": "Et%20cetera",
+      "incorrect_answers": [
+        "Every%20time%20considered",
+        "End%20thought%20completely",
+        "Eternal%20taste%20changes"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20of%20the%20following%20is%20an%20example%20of%20an%20adverb%3F",
+      "correct_answer": "Quickly",
+      "incorrect_answers": [
+        "Jumped",
+        "Table",
+        "Carrot"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20plural%20form%20of%20the%20word%20'mouse'%3F",
+      "correct_answer": "Mice",
+      "incorrect_answers": [
+        "Mouses",
+        "Micees",
+        "Meese"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20refers%20to%20the%20study%20of%20the%20structure%20of%20sentences%20and%20phrases%3F",
+      "correct_answer": "Syntax",
+      "incorrect_answers": [
+        "Semantics",
+        "Grammar",
+        "Etymology"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20a%20word%20that%20has%20the%20opposite%20meaning%20of%20another%20word%3F",
+      "correct_answer": "Antonym",
+      "incorrect_answers": [
+        "Synonym",
+        "Homonym",
+        "Heteronym"
+      ]
+    }
+  ]
+}

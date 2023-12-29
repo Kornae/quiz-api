@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20career%20touchdown%20passes%20in%20the%20NFL%3F",
+      "correct_answer": "Tom%20Brady",
+      "incorrect_answers": [
+        "Peyton%20Manning",
+        "Brett%20Favre",
+        "Drew%20Brees"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NFL%20team%20has%20won%20the%20most%20Super%20Bowl%20championships%3F",
+      "correct_answer": "New%20England%20Patriots",
+      "incorrect_answers": [
+        "Pittsburgh%20Steelers",
+        "Dallas%20Cowboys",
+        "San%20Francisco%2049ers"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20NFL%20draft%20pick%20that%20is%20awarded%20to%20the%20team%20with%20the%20worst%20record%20in%20the%20league%3F",
+      "correct_answer": "First%20Overall%20Pick",
+      "incorrect_answers": [
+        "Wild%20Card%20Pick",
+        "Golden%20Ticket%20Pick",
+        "Top%20Choice%20Pick"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20holds%20the%20record%20for%20the%20most%20rushing%20yards%20in%20a%20single%20NFL%20season%3F",
+      "correct_answer": "Eric%20Dickerson",
+      "incorrect_answers": [
+        "Barry%20Sanders",
+        "Adrian%20Peterson",
+        "Emmitt%20Smith"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20play%20in%20which%20the%20offensive%20team%20advances%20the%20ball%20downfield%20by%20throwing%20it%20to%20a%20receiver%20downfield%3F",
+      "correct_answer": "Pass%20Play",
+      "incorrect_answers": [
+        "Run%20Play",
+        "Screen%20Pass",
+        "End%20Around"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NFL%20team%20holds%20the%20record%20for%20the%20most%20consecutive%20Super%20Bowl%20appearances%3F",
+      "correct_answer": "Buffalo%20Bills",
+      "incorrect_answers": [
+        "Dallas%20Cowboys",
+        "New%20England%20Patriots",
+        "Miami%20Dolphins"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20penalty%20where%20the%20offensive%20team%20is%20moved%20back%20towards%20its%20own%20end%20zone%20due%20to%20violations%3F",
+      "correct_answer": "Offensive%20Holding",
+      "incorrect_answers": [
+        "Pass%20Interference",
+        "Delay%20of%20Game",
+        "False%20Start"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20NFL%20team%20has%20played%20in%20the%20most%20Super%20Bowls%3F",
+      "correct_answer": "New%20England%20Patriots",
+      "incorrect_answers": [
+        "Pittsburgh%20Steelers",
+        "Dallas%20Cowboys",
+        "San%20Francisco%2049ers"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20NFL's%20all-time%20leader%20in%20receiving%20yards%3F",
+      "correct_answer": "Jerry%20Rice",
+      "incorrect_answers": [
+        "Randy%20Moss",
+        "Terrell%20Owens",
+        "Calvin%20Johnson"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20defensive%20player%20who%20catches%20a%20pass%20thrown%20by%20the%20opposing%20quarterback%3F",
+      "correct_answer": "Interception",
+      "incorrect_answers": [
+        "Fumble",
+        "Sack",
+        "Pick-Six"
+      ]
+    }
+  ]
+}

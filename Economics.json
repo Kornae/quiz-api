@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20total%20value%20of%20goods%20and%20services%20produced%20within%20a%20country%20in%20a%20specific%20time%20period%3F",
+      "correct_answer": "Gross%20Domestic%20Product%20(GDP)",
+      "incorrect_answers": [
+        "Consumer%20Price%20Index%20(CPI)",
+        "Inflation%20Rate",
+        "National%20Debt"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20refers%20to%20the%20total%20costs%20required%20to%20produce%20one%20additional%20unit%20of%20a%20good%20or%20service%3F",
+      "correct_answer": "Marginal%20Cost",
+      "incorrect_answers": [
+        "Average%20Cost",
+        "Fixed%20Cost",
+        "Variable%20Cost"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20term%20describes%20the%20increase%20in%20the%20general%20level%20of%20prices%20for%20goods%20and%20services%20over%20time%2C%20resulting%20in%20a%20decrease%20in%20purchasing%20power%3F",
+      "correct_answer": "Inflation",
+      "incorrect_answers": [
+        "Recession",
+        "Deflation",
+        "Stagflation"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20situation%20when%20the%20quantity%20of%20goods%20and%20services%20produced%20exceeds%20the%20quantity%20demanded%20in%20the%20market%3F",
+      "correct_answer": "Surplus",
+      "incorrect_answers": [
+        "Shortage",
+        "Equilibrium",
+        "Deficit"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20the%20market%20structure%20in%20which%20there%20is%20only%20one%20seller%20in%20the%20marketplace%3F",
+      "correct_answer": "Monopoly",
+      "incorrect_answers": [
+        "Oligopoly",
+        "Perfect%20Competition",
+        "Monopolistic%20Competition"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20measure%20of%20how%20responsive%20quantity%20demanded%20is%20to%20a%20change%20in%20price%3F",
+      "correct_answer": "Elasticity",
+      "incorrect_answers": [
+        "Subsidy",
+        "Quota",
+        "Tariff"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20economic%20system%20in%20which%20the%20government%20controls%20most%20aspects%20of%20economic%20production%20and%20distribution%3F",
+      "correct_answer": "Command%20Economy",
+      "incorrect_answers": [
+        "Market%20Economy",
+        "Mixed%20Economy",
+        "Traditional%20Economy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20term%20describes%20the%20cost%20of%20an%20opportunity%20lost%20when%20a%20decision%20is%20made%3F",
+      "correct_answer": "Opportunity%20Cost",
+      "incorrect_answers": [
+        "Marginal%20Cost",
+        "Sunk%20Cost",
+        "Explicit%20Cost"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20measure%20of%20the%20average%20change%20in%20prices%20over%20time%20of%20a%20basket%20of%20goods%20and%20services%20consumed%20by%20a%20typical%20household%3F",
+      "correct_answer": "Consumer%20Price%20Index%20(CPI)",
+      "incorrect_answers": [
+        "Gross%20Domestic%20Product%20(GDP)",
+        "Inflation%20Rate",
+        "National%20Debt"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20economics%2C%20what%20is%20the%20term%20for%20the%20act%20of%20combining%20different%20goods%20and%20services%20into%20a%20single%20product%20or%20bundle%20that%20is%20priced%20and%20sold%20together%3F",
+      "correct_answer": "Bundling",
+      "incorrect_answers": [
+        "Fusion",
+        "Integration",
+        "Packaging"
+      ]
+    }
+  ]
+}

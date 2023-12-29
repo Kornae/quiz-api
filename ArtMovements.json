@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20emphasis%20on%20nature%2C%20emotion%2C%20and%20individual%20expression%2C%20with%20artists%20like%20Claude%20Monet%20and%20Pierre-Auguste%20Renoir%3F",
+      "correct_answer": "Impressionism",
+      "incorrect_answers": [
+        "Cubism",
+        "Surrealism",
+        "Fauvism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20use%20of%20geometric%20shapes%20and%20abstraction%2C%20with%20artists%20like%20Piet%20Mondrian%20and%20Theo%20van%20Doesburg%3F",
+      "correct_answer": "De%20Stijl",
+      "incorrect_answers": [
+        "Dadaism",
+        "Surrealism",
+        "Expressionism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20exploration%20of%20dreams%2C%20the%20subconscious%2C%20and%20fantasy%2C%20with%20artists%20like%20Salvador%20Dali%20and%20Rene%20Magritte%3F",
+      "correct_answer": "Surrealism",
+      "incorrect_answers": [
+        "Cubism",
+        "Abstract%20Expressionism",
+        "Fauvism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20use%20of%20fragmented%20shapes%20and%20multiple%20perspectives%2C%20with%20artists%20like%20Pablo%20Picasso%20and%20Georges%20Braque%3F",
+      "correct_answer": "Cubism",
+      "incorrect_answers": [
+        "Impressionism",
+        "Fauvism",
+        "Surrealism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20use%20of%20vivid%20colors%20and%20emotional%20expression%2C%20with%20artists%20like%20Henri%20Matisse%20and%20Andre%20Derain%3F",
+      "correct_answer": "Fauvism",
+      "incorrect_answers": [
+        "Cubism",
+        "Surrealism",
+        "Abstract%20Expressionism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20emphasis%20on%20emotions%2C%20subjectivity%2C%20and%20distorted%20forms%2C%20with%20artists%20like%20Edvard%20Munch%20and%20Egon%20Schiele%3F",
+      "correct_answer": "Expressionism",
+      "incorrect_answers": [
+        "Impressionism",
+        "Cubism",
+        "Surrealism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20provocative%20and%20anti-war%20attitude%2C%20with%20artists%20like%20Marcel%20Duchamp%20and%20Hannah%20Hoch%3F",
+      "correct_answer": "Dadaism",
+      "incorrect_answers": [
+        "Futurism",
+        "Cubism",
+        "Surrealism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20emphasis%20on%20geometric%20shapes%2C%20industrial%20materials%2C%20and%20simplicity%2C%20with%20artists%20like%20Walter%20Gropius%20and%20Ludwig%20Mies%20van%20der%20Rohe%3F",
+      "correct_answer": "Bauhaus",
+      "incorrect_answers": [
+        "Cubism",
+        "Surrealism",
+        "Fauvism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20use%20of%20bold%20colors%20and%20abstract%20shapes%2C%20with%20artists%20like%20Jackson%20Pollock%20and%20Willem%20de%20Kooning%3F",
+      "correct_answer": "Abstract%20Expressionism",
+      "incorrect_answers": [
+        "Surrealism",
+        "Fauvism",
+        "Cubism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20emphasis%20on%20dynamic%20movement%2C%20speed%2C%20and%20technology%2C%20with%20artists%20like%20Umberto%20Boccioni%20and%20Giacomo%20Balla%3F",
+      "correct_answer": "Futurism",
+      "incorrect_answers": [
+        "Dadaism",
+        "Cubism",
+        "Surrealism"
+      ]
+    }
+  ]
+}

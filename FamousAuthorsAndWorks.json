@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20wrote%20the%20novel%20'Pride%20and%20Prejudice'%3F",
+      "correct_answer": "Jane%20Austen",
+      "incorrect_answers": [
+        "Charlotte%20Bronte",
+        "Emily%20Dickinson",
+        "Louisa%20May%20Alcott"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20author%20wrote%20the%20play%20'Macbeth'%3F",
+      "correct_answer": "William%20Shakespeare",
+      "incorrect_answers": [
+        "Christopher%20Marlowe",
+        "Thomas%20Middleton",
+        "Ben%20Jonson"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20author%20of%20the%20novel%20'1984'%3F",
+      "correct_answer": "George%20Orwell",
+      "incorrect_answers": [
+        "Aldous%20Huxley",
+        "Ray%20Bradbury",
+        "Kurt%20Vonnegut"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20wrote%20the%20book%20'To%20Kill%20a%20Mockingbird'%3F",
+      "correct_answer": "Harper%20Lee",
+      "incorrect_answers": [
+        "Mark%20Twain",
+        "John%20Steinbeck",
+        "F.%20Scott%20Fitzgerald"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20author%20wrote%20the%20poem%20'The%20Raven'%3F",
+      "correct_answer": "Edgar%20Allan%20Poe",
+      "incorrect_answers": [
+        "Walt%20Whitman",
+        "Ralph%20Waldo%20Emerson",
+        "Emily%20Dickinson"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20wrote%20the%20book%20'Frankenstein'%3F",
+      "correct_answer": "Mary%20Shelley",
+      "incorrect_answers": [
+        "Bram%20Stoker",
+        "H.G.%20Wells",
+        "Robert%20Louis%20Stevenson"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20author%20is%20known%20for%20writing%20'The%20Adventures%20of%20Huckleberry%20Finn'%3F",
+      "correct_answer": "Mark%20Twain",
+      "incorrect_answers": [
+        "Charles%20Dickens",
+        "Herman%20Melville",
+        "Nathaniel%20Hawthorne"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20the%20author%20of%20the%20novel%20'Brave%20New%20World'%3F",
+      "correct_answer": "Aldous%20Huxley",
+      "incorrect_answers": [
+        "Ray%20Bradbury",
+        "George%20Orwell",
+        "Kurt%20Vonnegut"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20author%20wrote%20the%20play%20'Romeo%20and%20Juliet'%3F",
+      "correct_answer": "William%20Shakespeare",
+      "incorrect_answers": [
+        "Christopher%20Marlowe",
+        "Thomas%20Middleton",
+        "Ben%20Jonson"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20wrote%20the%20novel%20'The%20Great%20Gatsby'%3F",
+      "correct_answer": "F.%20Scott%20Fitzgerald",
+      "incorrect_answers": [
+        "Ernest%20Hemingway",
+        "John%20Steinbeck",
+        "Sinclair%20Lewis"
+      ]
+    }
+  ]
+}

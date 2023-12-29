@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20is%20known%20for%20celebrating%20the%20'Oktoberfest'%20festival%20annually%3F",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "Austria",
+        "Switzerland",
+        "Denmark"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20which%20country%20can%20you%20find%20the%20ancient%20city%20of%20Machu%20Picchu%3F",
+      "correct_answer": "Peru",
+      "incorrect_answers": [
+        "Mexico",
+        "Brazil",
+        "Chile"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20is%20the%20origin%20of%20the%20celebration%20of%20'Diwali'%3F",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "Sri%20Lanka",
+        "Bangladesh",
+        "Nepal"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20culture%20celebrates%20the%20'Chinese%20New%20Year'%20as%20a%20significant%20festival%3F",
+      "correct_answer": "Chinese",
+      "incorrect_answers": [
+        "Japanese",
+        "Korean",
+        "Vietnamese"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20which%20country%20is%20the%20ancient%20city%20of%20Petra%20located%3F",
+      "correct_answer": "Jordan",
+      "incorrect_answers": [
+        "Egypt",
+        "Syria",
+        "Israel"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20celebrates%20the%20festival%20of%20'Holi'%20with%20colored%20powders%20and%20water%20throwing%3F",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "Pakistan",
+        "Bangladesh",
+        "Sri%20Lanka"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20which%20country%20is%20the%20festival%20of%20'Carnival'%20famously%20celebrated%20in%20Rio%20de%20Janeiro%3F",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "Spain",
+        "Portugal",
+        "Argentina"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20is%20known%20for%20the%20annual%20celebration%20of%20'La%20Tomatina'%2C%20a%20festival%20involving%20tomato%20throwing%3F",
+      "correct_answer": "Spain",
+      "incorrect_answers": [
+        "Italy",
+        "Greece",
+        "France"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20culture%20celebrates%20the%20festival%20of%20'Songkran'%2C%20known%20for%20its%20water%20fights%20during%20New%20Year%3F",
+      "correct_answer": "Thai",
+      "incorrect_answers": [
+        "Indonesian",
+        "Filipino",
+        "Vietnamese"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20which%20country%20does%20the%20'Running%20of%20the%20Bulls'%20festival%20take%20place%20annually%20in%20the%20city%20of%20Pamplona%3F",
+      "correct_answer": "Spain",
+      "incorrect_answers": [
+        "Italy",
+        "France",
+        "Portugal"
+      ]
+    }
+  ]
+}

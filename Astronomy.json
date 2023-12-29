@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20closest%20star%20to%20Earth%3F",
+      "correct_answer": "Sun",
+      "incorrect_answers": [
+        "Alpha%20Centauri",
+        "Proxima%20Centauri",
+        "Sirius"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20Red%20Planet%3F",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20planet%20is%20known%20as%20the%20'ringed%20planet'%3F",
+      "correct_answer": "Saturn",
+      "incorrect_answers": [
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20largest%20planet%20in%20our%20solar%20system%3F",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": [
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20dwarf%20planet%20beyond%20Pluto%20that%20was%20formerly%20known%20as%20the%20ninth%20planet%3F",
+      "correct_answer": "Eris",
+      "incorrect_answers": [
+        "Ceres",
+        "Haumea",
+        "Makemake"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20nearest%20galaxy%20to%20the%20Milky%20Way%3F",
+      "correct_answer": "Andromeda",
+      "incorrect_answers": [
+        "Triangulum",
+        "Orion",
+        "Sombrero"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20farthest%20point%20from%20the%20Earth%20within%20our%20solar%20system%3F",
+      "correct_answer": "Kuiper%20Belt",
+      "incorrect_answers": [
+        "Oort%20Cloud",
+        "Heliopause",
+        "Asteroid%20Belt"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20first%20artificial%20satellite%20launched%20into%20space%20by%20humans%3F",
+      "correct_answer": "Sputnik%201",
+      "incorrect_answers": [
+        "Explorer%201",
+        "Vanguard%201",
+        "Apollo%201"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20of%20the%20largest%20moon%20in%20our%20solar%20system%2C%20orbiting%20Jupiter%3F",
+      "correct_answer": "Ganymede",
+      "incorrect_answers": [
+        "Titan",
+        "Europa",
+        "Callisto"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20astronomer%20proposed%20the%20three%20laws%20of%20planetary%20motion%3F",
+      "correct_answer": "Johannes%20Kepler",
+      "incorrect_answers": [
+        "Nicolaus%20Copernicus",
+        "Galileo%20Galilei",
+        "Isaac%20Newton"
+      ]
+    }
+  ]
+}

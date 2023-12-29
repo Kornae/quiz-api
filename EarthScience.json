@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20outermost%20layer%20of%20Earth's%20surface%3F",
+      "correct_answer": "Crust",
+      "incorrect_answers": [
+        "Mantle",
+        "Core",
+        "Lithosphere"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20process%20describes%20the%20movement%20of%20water%20from%20the%20Earth's%20surface%20to%20the%20atmosphere%20and%20back%20again%3F",
+      "correct_answer": "Water%20Cycle",
+      "incorrect_answers": [
+        "Rock%20Cycle",
+        "Carbon%20Cycle",
+        "Nitrogen%20Cycle"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20Earth's%20atmosphere%20called%3F",
+      "correct_answer": "Meteorology",
+      "incorrect_answers": [
+        "Geology",
+        "Climatology",
+        "Hydrology"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20a%20form%20of%20renewable%20energy%20derived%20from%20the%20heat%20of%20the%20Earth's%20interior%3F",
+      "correct_answer": "Geothermal%20Energy",
+      "incorrect_answers": [
+        "Solar%20Energy",
+        "Wind%20Energy",
+        "Hydropower"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20type%20of%20rock%20is%20formed%20by%20the%20cooling%20and%20solidification%20of%20magma%20or%20lava%3F",
+      "correct_answer": "Igneous%20Rock",
+      "incorrect_answers": [
+        "Sedimentary%20Rock",
+        "Metamorphic%20Rock",
+        "Granite"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20scientific%20study%20of%20the%20Earth's%20soil%20and%20its%20formation%3F",
+      "correct_answer": "Pedology",
+      "incorrect_answers": [
+        "Geology",
+        "Hydrology",
+        "Edaphology"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20layer%20of%20the%20Earth's%20atmosphere%20is%20closest%20to%20space%3F",
+      "correct_answer": "Exosphere",
+      "incorrect_answers": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20the%20transfer%20of%20heat%20by%20the%20movement%20of%20a%20fluid%20or%20gas%3F",
+      "correct_answer": "Convection",
+      "incorrect_answers": [
+        "Conduction",
+        "Radiation",
+        "Transduction"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20the%20layer%20of%20the%20Earth%20located%20between%20the%20crust%20and%20core%3F",
+      "correct_answer": "Mantle",
+      "incorrect_answers": [
+        "Lithosphere",
+        "Asthenosphere",
+        "Outer%20Core"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20name%20for%20the%20sudden%20release%20of%20energy%20in%20the%20Earth's%20crust%20that%20creates%20seismic%20waves%3F",
+      "correct_answer": "Earthquake",
+      "incorrect_answers": [
+        "Volcano",
+        "Tsunami",
+        "Tornado"
+      ]
+    }
+  ]
+}

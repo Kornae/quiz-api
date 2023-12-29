@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20solution%20to%20the%20equation%203x%20-%204%20=%208%3F",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%202y%20+%205%20=%2013%2C%20what%20is%20the%20value%20of%20y%3F",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "3",
+        "6"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Solve%20for%20x%20in%20the%20equation%20%2810x%20-%203%29%20=%2027%3B",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20x%20-%202%20=%2010%2C%20what%20is%20the%20value%20of%20x%3F",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "8",
+        "14",
+        "18"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Simplify%20the%20expression%20%283y%20+%204%29%20-%20%282y%20-%203%29%3B",
+      "correct_answer": "5y%20+%207",
+      "incorrect_answers": [
+        "y%20+%207",
+        "y%20-%201",
+        "y%20+%204"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Factorize%20the%20expression%20%282x%5E2%20+%204x%20-%205%29%3B",
+      "correct_answer": "(2x%20-%201)(x%20+%205)",
+      "incorrect_answers": [
+        "(2x%20+%201)(x%20-%205)",
+        "(x%20+%201)(2x%20-%205)",
+        "(x%20-%201)(2x%20+%205)"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%204x%20=%2016%2C%20what%20is%20the%20value%20of%20x%3F",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "6",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Solve%20for%20y%20in%20the%20equation%20%284y%20+%201%29%20=%2013%3B",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%20%28x%20times%202%29%20plus%203%20if%20x%20=%204%3F",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "14",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "If%20y%20-%203%20=%207%2C%20what%20is%20the%20value%20of%20y%3F",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "14"
+      ]
+    }
+  ]
+}

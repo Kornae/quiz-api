@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20literary%20device%20is%20used%20to%20exaggerate%20situations%20for%20emphasis%20or%20effect%3F",
+      "correct_answer": "Hyperbole",
+      "incorrect_answers": [
+        "Metaphor",
+        "Simile",
+        "Irony"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20literary%20device%20is%20used%20to%20hint%20at%20future%20events%20in%20a%20story%3F",
+      "correct_answer": "Foreshadowing",
+      "incorrect_answers": [
+        "Flashback",
+        "Symbolism",
+        "Alliteration"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20literary%20device%20involves%20giving%20human%20characteristics%20to%20non-human%20entities%20or%20objects%3F",
+      "correct_answer": "Personification",
+      "incorrect_answers": [
+        "Onomatopoeia",
+        "Allusion",
+        "Imagery"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20literature%2C%20what%20is%20the%20term%20for%20a%20repetition%20of%20the%20same%20consonant%20sounds%20at%20the%20beginning%20of%20words%20in%20close%20proximity%3F",
+      "correct_answer": "Alliteration",
+      "incorrect_answers": [
+        "Assonance",
+        "Consonance",
+        "Onomatopoeia"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20literary%20device%20is%20used%20to%20create%20a%20comparison%20between%20two%20unrelated%20things%20without%20using%20'like'%20or%20'as'%3F",
+      "correct_answer": "Metaphor",
+      "incorrect_answers": [
+        "Simile",
+        "Allegory",
+        "Irony"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20literary%20device%20where%20a%20word%20or%20phrase%20is%20used%20to%20mean%20something%20other%20than%20its%20literal%20meaning%3F",
+      "correct_answer": "Symbolism",
+      "incorrect_answers": [
+        "Allusion",
+        "Imagery",
+        "Personification"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20literary%20device%20that%20creates%20a%20sense%20of%20climax%20or%20anticipation%20in%20a%20narrative%20through%20suspense%20and%20tension%3F",
+      "correct_answer": "Rising%20Action",
+      "incorrect_answers": [
+        "Climax",
+        "Falling%20Action",
+        "Exposition"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20literary%20device%20is%20used%20to%20create%20humor%20or%20make%20a%20point%20by%20using%20language%20in%20a%20way%20that%20differs%20from%20the%20literal%20meaning%3F",
+      "correct_answer": "Irony",
+      "incorrect_answers": [
+        "Satire",
+        "Sarcasm",
+        "Hyperbole"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20repetition%20of%20a%20word%20or%20phrase%20at%20the%20beginning%20of%20successive%20sentences%20or%20clauses%3F",
+      "correct_answer": "Anaphora",
+      "incorrect_answers": [
+        "Epistrophe",
+        "Chiasmus",
+        "Metonymy"
+      ]
+    },
+    {
+      "category": "Language and Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20literary%20device%20involves%20the%20use%20of%20words%20that%20imitate%20sounds%20or%20noises%3F",
+      "correct_answer": "Onomatopoeia",
+      "incorrect_answers": [
+        "Alliteration",
+        "Assonance",
+        "Consonance"
+      ]
+    }
+  ]
+}

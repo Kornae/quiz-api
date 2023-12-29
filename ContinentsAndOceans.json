@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20largest%20continent%20by%20land%20area%3F",
+      "correct_answer": "Asia",
+      "incorrect_answers": [
+        "Africa",
+        "North%20America",
+        "South%20America"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20smallest%20continent%20by%20land%20area%3F",
+      "correct_answer": "Australia",
+      "incorrect_answers": [
+        "Europe",
+        "Antarctica",
+        "Asia"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ocean%20is%20the%20largest%20by%20area%3F",
+      "correct_answer": "Pacific%20Ocean",
+      "incorrect_answers": [
+        "Atlantic%20Ocean",
+        "Indian%20Ocean",
+        "Southern%20Ocean"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20second%20largest%20ocean%20by%20area%3F",
+      "correct_answer": "Atlantic%20Ocean",
+      "incorrect_answers": [
+        "Indian%20Ocean",
+        "Pacific%20Ocean",
+        "Arctic%20Ocean"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20island%20in%20the%20world%3F",
+      "correct_answer": "Greenland",
+      "incorrect_answers": [
+        "Madagascar",
+        "Borneo",
+        "New%20Guinea"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20largest%20lake%20by%20surface%20area%20in%20the%20world%3F",
+      "correct_answer": "Caspian%20Sea",
+      "incorrect_answers": [
+        "Lake%20Superior",
+        "Lake%20Victoria",
+        "Great%20Bear%20Lake"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20longest%20river%20in%20the%20world%3F",
+      "correct_answer": "Nile%20River",
+      "incorrect_answers": [
+        "Amazon%20River",
+        "Yangtze%20River",
+        "Mississippi%20River"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20is%20the%20tallest%20mountain%20in%20the%20world%3F",
+      "correct_answer": "Mount%20Everest",
+      "incorrect_answers": [
+        "K2",
+        "Kangchenjunga",
+        "Lhotse"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20desert%20in%20the%20world%3F",
+      "correct_answer": "Sahara%20Desert",
+      "incorrect_answers": [
+        "Arabian%20Desert",
+        "Gobi%20Desert",
+        "Kalahari%20Desert"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20continent%20has%20the%20most%20countries%3F",
+      "correct_answer": "Africa",
+      "incorrect_answers": [
+        "Asia",
+        "Europe",
+        "North%20America"
+      ]
+    }
+  ]
+}

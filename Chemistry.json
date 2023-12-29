@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20smallest%20unit%20of%20matter%3F",
+      "correct_answer": "Atom",
+      "incorrect_answers": [
+        "Molecule",
+        "Cell",
+        "Proton"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20element%20is%20represented%20by%20the%20chemical%20symbol%20'H'%3F",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": [
+        "Helium",
+        "Hassium",
+        "Hafnium"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20pH%20scale%20used%20to%20measure%3F",
+      "correct_answer": "Acidity%20or%20Alkalinity",
+      "incorrect_answers": [
+        "Temperature",
+        "Pressure",
+        "Volume"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20do%20you%20call%20substances%20that%20cannot%20be%20broken%20down%20by%20chemical%20means%3F",
+      "correct_answer": "Element",
+      "incorrect_answers": [
+        "Compound",
+        "Mixture",
+        "Solution"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20chemical%20symbol%20for%20gold%3F",
+      "correct_answer": "Au",
+      "incorrect_answers": [
+        "Go",
+        "Ag",
+        "Gl"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20gas%20is%20most%20abundant%20in%20Earth's%20atmosphere%3F",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": [
+        "Oxygen",
+        "Carbon%20Dioxide",
+        "Argon"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20chemical%20symbol%20for%20iron%3F",
+      "correct_answer": "Fe",
+      "incorrect_answers": [
+        "Ir",
+        "In",
+        "Io"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20process%20of%20a%20substance%20in%20a%20gaseous%20state%20transforming%20into%20a%20liquid%20state%3F",
+      "correct_answer": "Condensation",
+      "incorrect_answers": [
+        "Evaporation",
+        "Solidification",
+        "Sublimation"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20subatomic%20particles%20are%20found%20in%20the%20nucleus%20of%20an%20atom%3F",
+      "correct_answer": "Protons%20and%20Neutrons",
+      "incorrect_answers": [
+        "Protons%20and%20Electrons",
+        "Electrons%20and%20Neutrons",
+        "Neutrons%20and%20Photons"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20study%20of%20the%20composition%2C%20structure%2C%20properties%2C%20and%20reactions%20of%20matter%3F",
+      "correct_answer": "Chemistry",
+      "incorrect_answers": [
+        "Physics",
+        "Biology",
+        "Geology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20organ%20in%20the%20human%20body%20produces%20insulin%3F",
+      "correct_answer": "Pancreas",
+      "incorrect_answers": [
+        "Liver",
+        "Kidney",
+        "Spleen"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20organ%20in%20the%20human%20body%3F",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Liver",
+        "Brain",
+        "Lungs"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20smallest%20bone%20in%20the%20human%20body%3F",
+      "correct_answer": "Stapes",
+      "incorrect_answers": [
+        "Femur",
+        "Tibia",
+        "Ulna"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20medical%20term%20for%20the%20voice%20box%3F",
+      "correct_answer": "Larynx",
+      "incorrect_answers": [
+        "Pharynx",
+        "Trachea",
+        "Bronchus"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20part%20of%20the%20human%20brain%20controls%20balance%20and%20coordination%3F",
+      "correct_answer": "Cerebellum",
+      "incorrect_answers": [
+        "Cerebrum",
+        "Thalamus",
+        "Hypothalamus"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20largest%20muscle%20in%20the%20human%20body%3F",
+      "correct_answer": "Gluteus%20maximus",
+      "incorrect_answers": [
+        "Biceps%20brachii",
+        "Quadriceps",
+        "Latissimus%20dorsi"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20human%20organ%20functions%20to%20filter%20blood%20and%20remove%20waste%20products%3F",
+      "correct_answer": "Kidney",
+      "incorrect_answers": [
+        "Liver",
+        "Heart",
+        "Lung"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20smallest%20organ%20in%20the%20human%20body%3F",
+      "correct_answer": "Pineal%20gland",
+      "incorrect_answers": [
+        "Appendix",
+        "Thyroid",
+        "Pituitary%20gland"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20part%20of%20the%20human%20body%20contains%20the%20humeral%20bone%3F",
+      "correct_answer": "Arm",
+      "incorrect_answers": [
+        "Leg",
+        "Spine",
+        "Skull"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20medical%20term%20for%20the%20windpipe%3F",
+      "correct_answer": "Trachea",
+      "incorrect_answers": [
+        "Larynx",
+        "Bronchus",
+        "Pharynx"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20painted%20the%20famous%20artwork%20'Mona%20Lisa'%3F",
+      "correct_answer": "Leonardo%20da%20Vinci",
+      "incorrect_answers": [
+        "Pablo%20Picasso",
+        "Vincent%20van%20Gogh",
+        "Michelangelo"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20surreal%20and%20dreamlike%20style%2C%20with%20artists%20like%20Salvador%20Dali%20and%20Rene%20Magritte%3F",
+      "correct_answer": "Surrealism",
+      "incorrect_answers": [
+        "Cubism",
+        "Impressionism",
+        "Fauvism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20painted%20the%20famous%20artwork%20'Starry%20Night'%3F",
+      "correct_answer": "Vincent%20van%20Gogh",
+      "incorrect_answers": [
+        "Edvard%20Munch",
+        "Claude%20Monet",
+        "Pablo%20Picasso"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20artist%20is%20famous%20for%20painting%20the%20'Water%20Lilies'%20series%3F",
+      "correct_answer": "Claude%20Monet",
+      "incorrect_answers": [
+        "Paul%20Cezanne",
+        "Georges%20Seurat",
+        "Pierre-Auguste%20Renoir"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20created%20the%20famous%20sculpture%20'David'%3F",
+      "correct_answer": "Michelangelo",
+      "incorrect_answers": [
+        "Leonardo%20da%20Vinci",
+        "Raphael",
+        "Donatello"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20art%20movement%20focused%20on%20recreating%20the%20natural%20world%20in%20exacting%20detail%2C%20with%20artists%20like%20John%20James%20Audubon%20and%20Georgia%20O'Keeffe%3F",
+      "correct_answer": "Realism",
+      "incorrect_answers": [
+        "Renaissance",
+        "Surrealism",
+        "Cubism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20artist%20is%20known%20for%20creating%20the%20sculpture%20'The%20Thinker'%3F",
+      "correct_answer": "Auguste%20Rodin",
+      "incorrect_answers": [
+        "Pablo%20Picasso",
+        "Leonardo%20da%20Vinci",
+        "Vincent%20van%20Gogh"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20painted%20the%20famous%20artwork%20'The%20Scream'%3F",
+      "correct_answer": "Edvard%20Munch",
+      "incorrect_answers": [
+        "Vincent%20van%20Gogh",
+        "Claude%20Monet",
+        "Pablo%20Picasso"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20art%20movement%20is%20known%20for%20its%20use%20of%20bold%20colors%20and%20emotional%20expression%2C%20with%20artists%20like%20Henri%20Matisse%20and%20Andre%20Derain%3F",
+      "correct_answer": "Fauvism",
+      "incorrect_answers": [
+        "Cubism",
+        "Impressionism",
+        "Surrealism"
+      ]
+    },
+    {
+      "category": "Arts",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20Italian%20artist%20is%20known%20for%20painting%20'The%20Birth%20of%20Venus'%3F",
+      "correct_answer": "Sandro%20Botticelli",
+      "incorrect_answers": [
+        "Leonardo%20da%20Vinci",
+        "Michelangelo",
+        "Raphael"
+      ]
+    }
+  ]
+}

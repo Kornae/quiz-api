@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20term%20for%20the%20feeling%20of%20overwhelming%20sadness%20and%20hopelessness%3F",
+      "correct_answer": "Depression",
+      "incorrect_answers": [
+        "Euphoria",
+        "Excitement",
+        "Contentment"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20activity%20is%20often%20recommended%20as%20a%20way%20to%20improve%20mental%20well-being%3F",
+      "correct_answer": "Exercise",
+      "incorrect_answers": [
+        "Isolation",
+        "Sedentary%20behavior",
+        "Excessive%20screen%20time"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20a%20common%20way%20to%20manage%20stress%20and%20anxiety%3F",
+      "correct_answer": "Deep%20breathing%20exercises",
+      "incorrect_answers": [
+        "Ignoring%20the%20problem",
+        "Increased%20caffeine%20intake",
+        "Ruminating%20on%20issues"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20is%20a%20common%20symptom%20of%20stress%20overload%3F",
+      "correct_answer": "Fatigue",
+      "incorrect_answers": [
+        "Heightened%20energy%20levels",
+        "Improved%20focus%20and%20clarity",
+        "Enhanced%20sleep%20patterns"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20an%20important%20factor%20for%20maintaining%20good%20mental%20health%3F",
+      "correct_answer": "Quality%20sleep",
+      "incorrect_answers": [
+        "Excessive%20alcohol%20consumption",
+        "Irregular%20meal%20times",
+        "Lack%20of%20physical%20activity"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20activity%20can%20help%20in%20reducing%20feelings%20of%20stress%20and%20anxiety%3F",
+      "correct_answer": "Meditation",
+      "incorrect_answers": [
+        "Overthinking",
+        "Skipping%20meals",
+        "Increased%20caffeine%20intake"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20can%20be%20a%20sign%20of%20mental%20well-being%3F",
+      "correct_answer": "Positive%20relationships",
+      "incorrect_answers": [
+        "Isolation",
+        "Constant%20worrying",
+        "Pessimistic%20outlook"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20activity%20is%20often%20recommended%20to%20boost%20mood%20and%20self-esteem%3F",
+      "correct_answer": "Engaging%20in%20hobbies",
+      "incorrect_answers": [
+        "Excessive%20screen%20time",
+        "Avoiding%20social%20interactions",
+        "Skipping%20meals"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20can%20aid%20in%20stress%20reduction%20and%20mental%20clarity%3F",
+      "correct_answer": "Practicing%20mindfulness",
+      "incorrect_answers": [
+        "Multi-tasking",
+        "Ruminating%20on%20problems",
+        "Increased%20caffeine%20intake"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20a%20common%20way%20to%20promote%20positive%20mental%20health%3F",
+      "correct_answer": "Expressing%20gratitude",
+      "incorrect_answers": [
+        "Focusing%20solely%20on%20work",
+        "Ignoring%20emotional%20needs",
+        "Isolating%20from%20others"
+      ]
+    }
+  ]
+}

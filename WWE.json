@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20won%20the%20first%20WWF%20'Tag%20Team%20TLC'%20match%20at%20WrestleMania%202000%3F",
+      "correct_answer": "Edge%20%26%20Christian",
+      "incorrect_answers": [
+        "The%20Dudley%20Boys",
+        "The%20Hardy%20Boyz",
+        "Chris%20Jericho%20%26%20Chris%20Benoit"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20known%20as%20'The%20Rattlesnake'%20during%20the%20Attitude%20Era%3F",
+      "correct_answer": "Stone%20Cold%20Steve%20Austin",
+      "incorrect_answers": [
+        "The%20Rock",
+        "Triple%20H",
+        "Kurt%20Angle"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20was%20the%20main%20event%20of%20WrestleMania%2017%20(during%20the%20Attitude%20Era)%3F",
+      "correct_answer": "The%20Rock%20vs.%20Stone%20Cold%20Steve%20Austin",
+      "incorrect_answers": [
+        "Triple%20H%20vs.%20The%20Undertaker",
+        "Kurt%20Angle%20vs.%20Chris%20Benoit",
+        "Shane%20McMahon%20vs.%20Vince%20McMahon"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20won%20the%20first%20ever%20Elimination%20Chamber%20match%20at%20Survivor%20Series%202002%3F",
+      "correct_answer": "Shawn%20Michaels",
+      "incorrect_answers": [
+        "Triple%20H",
+        "Chris%20Jericho",
+        "Randy%20Orton"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20known%20as%20'The%20Legend%20Killer'%20during%20the%20Ruthless%20Aggression%20Era%3F",
+      "correct_answer": "Randy%20Orton",
+      "incorrect_answers": [
+        "John%20Cena",
+        "Batista",
+        "Edge"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20won%20the%20main%20event%20at%20WrestleMania%2035%20in%20the%20current%20era%3F",
+      "correct_answer": "Becky%20Lynch",
+      "incorrect_answers": [
+        "Ronda%20Rousey",
+        "Charlotte%20Flair",
+        "Sasha%20Banks"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20is%20known%20as%20'The%20Tribal%20Chief'%20in%20WWE's%20current%20era%3F",
+      "correct_answer": "Roman%20Reigns",
+      "incorrect_answers": [
+        "Seth%20Rollins",
+        "Drew%20McIntyre",
+        "Bobby%20Lashley"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20won%20the%20first%20ever%20Royal%20Rumble%20match%3F",
+      "correct_answer": "Jim%20Duggan",
+      "incorrect_answers": [
+        "Ric%20Flair",
+        "Hulk%20Hogan",
+        "Andre%20the%20Giant"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20was%20The%20Undertaker's%20streak%20at%20WrestleMania%20before%20losing%20to%20Brock%20Lesnar%3F",
+      "correct_answer": "21-0",
+      "incorrect_answers": [
+        "20-0",
+        "22-0",
+        "23-0"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20the%20first%20female%20WWE%20Superstar%20to%20be%20inducted%20into%20the%20WWE%20Hall%20of%20Fame%3F",
+      "correct_answer": "Sensational%20Sherri",
+      "incorrect_answers": [
+        "Trish%20Stratus",
+        "Lita",
+        "Chyna"
+      ]
+    }
+  ]
+}

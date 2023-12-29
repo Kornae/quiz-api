@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20result%20of%2018%20minus%20%2812%20divided%20by%204%29%3F",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "9",
+        "12",
+        "18"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20value%20of%201.5%20times%20%2810%20plus%203%29%3F",
+      "correct_answer": "19.5",
+      "incorrect_answers": [
+        "21",
+        "18",
+        "20"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20square%20root%20of%20144%20minus%208%3F",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "12",
+        "14",
+        "16"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%283%20times%204%29%20plus%20%282%20times%205%29%3F",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "20",
+        "24",
+        "18"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%2810%20percent%20of%2020%29%20plus%20%2820%20percent%20of%2010%29%3F",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20average%20of%2030%2C%2040%2C%20and%2050%3F",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "35",
+        "45",
+        "50"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%282%20to%20the%20power%20of%203%29%20times%20%2810%20divided%20by%202%29%3F",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "30",
+        "50",
+        "20"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%2820%20percent%20of%2025%29%20minus%203%3F",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20result%20of%20%28100%20divided%20by%205%29%20plus%20%285%20times%202%29%3F",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "20",
+        "10",
+        "25"
+      ]
+    },
+    {
+      "category": "Math",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20%285%20squared%29%20minus%20%2810%20times%204%29%20plus%203%3F",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "2",
+        "0",
+        "-5"
+      ]
+    }
+  ]
+}

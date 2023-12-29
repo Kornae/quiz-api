@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20government%20ruled%20by%20a%20single%20individual%20with%20absolute%20power%20and%20authority%3F",
+      "correct_answer": "Autocracy",
+      "incorrect_answers": [
+        "Oligarchy",
+        "Democracy",
+        "Monarchy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20political%20ideology%20believes%20in%20limited%20government%20intervention%20in%20the%20marketplace%2C%20individual%20freedom%2C%20and%20free-market%20capitalism%3F",
+      "correct_answer": "Libertarianism",
+      "incorrect_answers": [
+        "Socialism",
+        "Communism",
+        "Fascism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20document%20outlines%20the%20basic%20laws%2C%20principles%2C%20and%20rights%20of%20a%20country%27s%20citizens%2C%20often%20including%20the%20powers%20and%20limitations%20of%20the%20government%3F",
+      "correct_answer": "Constitution",
+      "incorrect_answers": [
+        "Bill%20of%20Rights",
+        "Declaration%20of%20Independence",
+        "Magna%20Carta"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20for%20a%20form%20of%20government%20in%20which%20power%20is%20shared%20between%20a%20central%20authority%20and%20individual%20states%20or%20regions%3F",
+      "correct_answer": "Federalism",
+      "incorrect_answers": [
+        "Monarchy",
+        "Oligarchy",
+        "Totalitarianism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20branch%20of%20government%20is%20responsible%20for%20interpreting%20the%20laws%20and%20determining%20if%20they%20violate%20the%20Constitution%3F",
+      "correct_answer": "Judicial",
+      "incorrect_answers": [
+        "Executive",
+        "Legislative",
+        "Administrative"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20system%20of%20government%20in%20which%20citizens%20directly%20participate%20in%20decision-making%20and%20voting%20on%20laws%20and%20policies%3F",
+      "correct_answer": "Direct%20Democracy",
+      "incorrect_answers": [
+        "Representative%20Democracy",
+        "Totalitarianism",
+        "Monarchy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20type%20of%20government%20is%20characterized%20by%20a%20single%20ruler%20who%20inherits%20the%20position%20and%20rules%20for%20life%2C%20passing%20the%20title%20to%20their%20family%20members%20upon%20death%3F",
+      "correct_answer": "Monarchy",
+      "incorrect_answers": [
+        "Republic",
+        "Oligarchy",
+        "Theocracy"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20political%20system%20in%20which%20a%20small%20group%20of%20people%20holds%20all%20the%20power%20and%20authority%3F",
+      "correct_answer": "Oligarchy",
+      "incorrect_answers": [
+        "Autocracy",
+        "Democracy",
+        "Federalism"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20is%20the%20term%20used%20for%20the%20law-making%20body%20of%20a%20government%3F",
+      "correct_answer": "Legislature",
+      "incorrect_answers": [
+        "Cabinet",
+        "Parliament",
+        "Senate"
+      ]
+    },
+    {
+      "category": "Social Studies",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In%20the%20United%20States%2C%20what%20is%20the%20upper%20house%20of%20Congress%20called%3F",
+      "correct_answer": "Senate",
+      "incorrect_answers": [
+        "House%20of%20Representatives",
+        "Chamber%20of%20Deputies",
+        "House%20of%20Lords"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20a%20rich%20source%20of%20protein%3F",
+      "correct_answer": "Chicken",
+      "incorrect_answers": [
+        "Lettuce",
+        "Apple",
+        "Orange"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20recommended%20daily%20intake%20of%20water%20for%20adults%3F",
+      "correct_answer": "Approximately%208%20glasses%20or%202%20liters",
+      "incorrect_answers": [
+        "Approximately%203%20glasses%20or%20750%20milliliters",
+        "Approximately%204%20glasses%20or%201%20liter",
+        "Approximately%206%20glasses%20or%201.5%20liters"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20nutrient%20is%20an%20essential%20component%20of%20healthy%20bones%20and%20teeth%3F",
+      "correct_answer": "Calcium",
+      "incorrect_answers": [
+        "Iron",
+        "Vitamin%20C",
+        "Potassium"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20of%20the%20following%20is%20considered%20a%20healthy%20source%20of%20fats%3F",
+      "correct_answer": "Avocado",
+      "incorrect_answers": [
+        "Butter",
+        "Ice%20cream",
+        "Fried%20chips"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20main%20role%20of%20fiber%20in%20the%20diet%3F",
+      "correct_answer": "Aids%20in%20digestion%20and%20promotes%20bowel%20health",
+      "incorrect_answers": [
+        "Enhances%20brain%20function",
+        "Increases%20heart%20rate",
+        "Strengthens%20muscles"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20food%20group%20does%20rice%20belong%20to%3F",
+      "correct_answer": "Grains",
+      "incorrect_answers": [
+        "Dairy",
+        "Proteins",
+        "Fruits"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20nutrient%20is%20primarily%20found%20in%20foods%20like%20meat%2C%20poultry%2C%20and%20fish%3F",
+      "correct_answer": "Protein",
+      "incorrect_answers": [
+        "Vitamin%20C",
+        "Fiber",
+        "Iron"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20key%20source%20of%20energy%20for%20the%20body%3F",
+      "correct_answer": "Carbohydrates",
+      "incorrect_answers": [
+        "Proteins",
+        "Vitamins",
+        "Minerals"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which%20vitamin%20is%20known%20as%20the%20'sunshine%20vitamin'%3F",
+      "correct_answer": "Vitamin%20D",
+      "incorrect_answers": [
+        "Vitamin%20C",
+        "Vitamin%20A",
+        "Vitamin%20K"
+      ]
+    },
+    {
+      "category": "Health & Psychology",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What%20is%20the%20recommended%20daily%20intake%20of%20vegetables%20for%20adults%3F",
+      "correct_answer": "Approximately%202%20to%203%20cups",
+      "incorrect_answers": [
+        "Approximately%204%20to%205%20cups",
+        "Approximately%206%20to%207%20cups",
+        "Approximately%201%20to%202%20cups"
+      ]
+    }
+  ]
+}

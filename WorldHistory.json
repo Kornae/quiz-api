@@ -1,0 +1,125 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20credited%20with%20the%20invention%20of%20writing%20using%20hieroglyphics%3F",
+      "correct_answer": "Ancient%20Egypt",
+      "incorrect_answers": [
+        "Ancient%20Greece",
+        "Ancient%20China",
+        "Mesopotamia"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20the%20first%20emperor%20of%20ancient%20Rome%3F",
+      "correct_answer": "Augustus",
+      "incorrect_answers": [
+        "Julius%20Caesar",
+        "Nero",
+        "Constantine"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20French%20Revolution%20began%20in%20which%20year%3F",
+      "correct_answer": "1789",
+      "incorrect_answers": [
+        "1776",
+        "1804",
+        "1812"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20country%20was%20the%20first%20to%20circumnavigate%20the%20globe%20and%20reach%20the%20Philippines%20in%201521%3F",
+      "correct_answer": "Spain",
+      "incorrect_answers": [
+        "Portugal",
+        "England",
+        "France"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20the%20leader%20of%20the%20Soviet%20Union%20during%20the%20Cuban%20Missile%20Crisis%20in%201962%3F",
+      "correct_answer": "Nikita%20Khrushchev",
+      "incorrect_answers": [
+        "Joseph%20Stalin",
+        "Vladimir%20Putin",
+        "Mikhail%20Gorbachev"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What%20event%20is%20considered%20the%20start%20of%20World%20War%20I%3F",
+      "correct_answer": "Assassination%20of%20Archduke%20Ferdinand%20of%20Austria",
+      "incorrect_answers": [
+        "Battle%20of%20the%20Somme",
+        "Treaty%20of%20Versailles",
+        "Invasion%20of%20Poland"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which%20ancient%20civilization%20is%20known%20for%20constructing%20the%20Great%20Wall%20of%20China%3F",
+      "correct_answer": "Qin%20Dynasty",
+      "incorrect_answers": [
+        "Ming%20Dynasty",
+        "Han%20Dynasty",
+        "Tang%20Dynasty"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20Treaty%20of%20Versailles%20was%20signed%20in%20which%20year%3F",
+      "correct_answer": "1919",
+      "incorrect_answers": [
+        "1914",
+        "1924",
+        "1920"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who%20was%20the%20first%20female%20Prime%20Minister%20of%20the%20United%20Kingdom%3F",
+      "correct_answer": "Margaret%20Thatcher",
+      "incorrect_answers": [
+        "Queen%20Elizabeth%20II",
+        "Theresa%20May",
+        "Indira%20Gandhi"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The%20Berlin%20Wall%20fell%20in%20which%20year%3F",
+      "correct_answer": "1989",
+      "incorrect_answers": [
+        "1991",
+        "1987",
+        "1990"
+      ]
+    }
+  ]
+}
