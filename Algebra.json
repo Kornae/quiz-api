@@ -6,11 +6,11 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "Multiply:%202x(3x²-5x-3)%3F",
-      "correct_answer": "4",
+      "correct_answer": "6x³-10x²-6x",
       "incorrect_answers": [
-        "2",
-        "6",
-        "10"
+        "6x³-5x²-6x",
+        "6x³-5x-3",
+        "6x³-10x²-3x"
       ]
     },
     {
