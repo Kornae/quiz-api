@@ -65,7 +65,7 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "A%20letter%20used%20to%20represent%20a%20number%20is%20called%20a(n)%20______.",
+      "question": "A%20letter%20used%20to%20represent%20a%20number%20is%20called%20a(n)",
       "correct_answer": "variable",
       "incorrect_answers": [
         "solution",
