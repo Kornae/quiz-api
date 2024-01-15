@@ -65,12 +65,12 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Factorize%20the%20expression%20%282x²%20+%204x%20-%205%29%3B",
-      "correct_answer": "(2x%20-%201)(x%20+%205)",
+      "question": "A%20letter%20used%20to%20represent%20a%20number%20is%20called%20a(n)%20______.",
+      "correct_answer": "variable",
       "incorrect_answers": [
-        "(2x%20+%201)(x%20-%205)",
-        "(x%20+%201)(2x%20-%205)",
-        "(x%20-%201)(2x%20+%205)"
+        "solution",
+        "constant",
+        "coefficient"
       ]
     },
     {
