@@ -5,7 +5,7 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Multiply:%202x(3x²-5x-3)%3F",
+      "question": "Multiply:%202x(3x²%20-%205x%20-3)%3F",
       "correct_answer": "6x³-10x²-6x",
       "incorrect_answers": [
         "6x³-5x²-6x",
@@ -54,9 +54,9 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "Simplify%20the%20expression%20%283y%20+%204%29%20-%20%282y%20-%203%29%3B",
-      "correct_answer": "5y%20+%207",
+      "correct_answer": "y%20+%207",
       "incorrect_answers": [
-        "y%20+%207",
+        "5y%20+%207",
         "y%20-%201",
         "y%20+%204"
       ]
@@ -65,7 +65,7 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Factorize%20the%20expression%20%282x%5E2%20+%204x%20-%205%29%3B",
+      "question": "Factorize%20the%20expression%20%282x²%20+%204x%20-%205%29%3B",
       "correct_answer": "(2x%20-%201)(x%20+%205)",
       "incorrect_answers": [
         "(2x%20+%201)(x%20-%205)",
