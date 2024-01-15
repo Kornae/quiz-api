@@ -5,7 +5,7 @@
       "category": "Math",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Multiply:%202x(3x²%20-%205x%20-3)%3F",
+      "question": "Multiply:%202x%20(3x²%20-%205x%20-%203)%3F",
       "correct_answer": "6x³-10x²-6x",
       "incorrect_answers": [
         "6x³-5x²-6x",
