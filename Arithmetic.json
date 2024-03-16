@@ -30,11 +30,11 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "What%20is%20the%20square%20root%20of%20144%20minus%208%3F",
-      "correct_answer": "10",
+      "correct_answer": "4",
       "incorrect_answers": [
-        "12",
-        "14",
-        "16"
+        "2",
+        "6",
+        "8"
       ]
     },
     {
@@ -54,9 +54,9 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "What%20is%20%2810%20percent%20of%2020%29%20plus%20%2820%20percent%20of%2010%29%3F",
-      "correct_answer": "6",
+      "correct_answer": "4",
       "incorrect_answers": [
-        "4",
+        "6",
         "8",
         "10"
       ]
@@ -102,10 +102,10 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "What%20is%20the%20result%20of%20%28100%20divided%20by%205%29%20plus%20%285%20times%202%29%3F",
-      "correct_answer": "15",
+      "correct_answer": "30",
       "incorrect_answers": [
         "20",
-        "10",
+        "15",
         "25"
       ]
     },
@@ -114,10 +114,10 @@
       "type": "multiple",
       "difficulty": "medium",
       "question": "What%20is%20%285%20squared%29%20minus%20%2810%20times%204%29%20plus%203%3F",
-      "correct_answer": "-2",
+      "correct_answer": "-12",
       "incorrect_answers": [
         "2",
-        "0",
+        "-10",
         "-5"
       ]
     }
